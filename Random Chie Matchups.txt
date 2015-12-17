@@ -1,0 +1,466 @@
+Chie Matchups:
+
+Margaret
+	If you can't handle/identify 5D/2D just do 5A > jump cancel to defuse the situation
+	Offensive momentum is important because Margaret's defensive options are not particularly strong against Chie but her offensive capabilities are terrifying.
+	If Margaret throws an air fireball (j.D) she can't do anything else until landing. The same is NOT true about air iceball (j.2D)
+	??????????????
+	Sweep is full screen low
+		Sweep often leads into spear (236C)
+	Watch out when she's directly above you because of divekick
+	5D after knockdown
+	She has tons of overheads
+	It might even be better to block high on wakeup because of that.
+	Note to self: I need to stop blocking low against safe jumps
+	Lots of ways to catch you mashing so it's probably not the best idea
+	Similar to Elizabeth, not many ways of opening you up using long range Persona pressure. Frame traps and 5D only. When Margaret is a bit closer, God's Hand becomes a factor. She only gets tons of overheads at melee range.
+	After knockdown I use AoA to try to bait DP. It might work, but every time they just block low and I just hit them. It's probably not a good idea but oh well.
+	I'm personally having a bit of trouble baiting DP. It's a pain to safejump, and if I commit to anything, like backdash > microdash 5C or stand still > j.C, I eat a reversal super. Maybe I should punish whiffed DP on reaction, but I don't know how capable I am of that yet.
+	Also worth considering just airdash to beat everything but wakeup super.
+	Sweep > j.2D might be good?
+	Theorycrafting here, but I imagine 5A/5AA > 2B/5C > 236B is a good string to prevent them from mashing non-reversals. Instant airturn backdash j.B is strong as well if you're fast, and beats DP, but it can lose to mash 2B (not sure if I'm just not fast enough). Jump delay j.C might also work well to catch things.
+	214AB actually jumps over sweep but it's a pretty hard read
+	I imagine baiting wakeup DP is the same as baiting wakeup grab in terms of timing
+	5A can be low-profiled with sweep and 2A
+	Power Slash is the reversal super of choice. A version is 4+4, B version is 4+19, SB version is 4+3. Can be rolled on reaction to super flash. 
+
+SHO Minazuki
+	2C (jumping sword x swing) is +6 on block
+	Same deal with 4A and 2B and j.B as Minazuki
+	j.B+D is apparently an overhead
+	Destructive Fang (3rd hit of rekka, j.236A/B) is not safe if not SB version
+		You can 5A after IB against A version only
+	High-Speed Movement crosses up
+	You can punish 236236A/B/AB immediately after blocking the hit
+	Moon Smasher (Awakening super) is AUB for 8f
+	Mashing DP on rekka is not particularly great because teleport beats it handily as far as I can tell
+	Only lows are 2A and Sweep so once those are out of a string you can just block high
+	Soaring Fang (2nd hit of rekka, 214A/B) can probably be OMC into low for the Minazuki mixup
+	No command grab at least. Opens up through tick throws and crossups and metered instant overheads
+	I guess you can't 2B rekka 2nd & 3rd? You kinda can...
+		Only talking about Soaring Fang > Destructive Fang here
+		You can 2B A > A for 2B > j.BB > j.C > j.236B~236B
+			Sho can end up on either side depending on spacing which will make you jump the wrong way and miss the followup
+			Depending on the timing/spacing, the 2B can whiff or get you hit because FUCK THIS MATCHUP
+		You can 2B A > B for much the same story as A > A
+			You can jump airgrab this.
+			You can't jump any other followups to A
+		You can only 2B A > SB on IB
+		You can roll A > anything.
+		You can't 2B B > A even on IB
+			You can roll it though
+		You can 2B B > B
+		You can't do anything on B > SB: it's tight
+			If you're crouching you can DP. You can't roll
+		You can 2B SB > A although if you don't IB the 2B will catch them on the ground
+		You can 2B SB > B
+		You can't 2B SB > SB: it's tight
+			If you're crouching you can DP, but it won't CH because SB Destructive Fang has no landing recovery
+	Always watch his meter to know if he can SB Destructive Fang. Never challenge rekka while he has meter as he likes spending meter on mixups.
+	Never underestimate range of sword normals
+	WHEN HE DOES JUMPING SWORD SWING THING (2C/j.2C) IT'S SUPER PLUS SO STOP PRESSING BUTTONS
+
+Naoto Shirogane
+	Don't run into traps.
+	I think 5C and 2A can be used to defuse traps, although it's understandably scary.
+	You can roll after 5C, although it's sad for you if they bait the roll.
+	You can fuzzy jump a lot of her stuff
+	AoA hard calls out DP on wakeup
+	Her aerial moves are pretty strong. I've had some trouble contesting normally in air-to-air
+	Stop mashing after j.C like an idiot, you idiot
+	j.C's in the corner are pretty strong. Can catch roll with land 5C too
+	I got a lot of success with spaced 5C's, as she doesn't have too many long range normal pokes
+
+Teddie
+	Before you play, read what every single item does.
+	Pinwheel pushes into rage drink for unblockable
+	Be aware when bike is coming. Look for keys on floor. Watch out for 2B or airgrab if you try to jump away and grab and roll crossup when grounded.
+	Keep track of when buckets are coming down. This'll lead to something like roll crossup or grab.
+	Try not to even block the barrel as the crossup potential is immense and difficult to deal with.
+	Teddie's only high is AoA so don't worry about blocking high.
+	IAD j.B crosses up and catches jumps, and I don't think you can DP it.
+	Teddie has a strong 2B against dumb jump ins
+	AoA while in smoke bomb. Dumb gimmick that may only work once.
+	Don't forget about the fish after sweep
+	Only way Teddie can open you up is from grabs and crossups.
+		This will ultimately end up with him baiting a lot of grabs or hitting you out of the air with his solid 2B
+	Watch out when pursuing him in the air because his j.C is very powerful
+
+Yukiko Amagi
+	Don't roll Maragi. Don't roll if there is a Maragi on screen. Rolling 5C/2C/5D if they're not covered is fine.
+	The Maragi normally comes after 5C > 2C
+	They almost always land by throwing a fan, especially when they've already thrown a midair fan. Because of the fan landing lag, you can roll at their landing and hit them, but it's risky. 2B can go under some fans if you're lucky. Consider AoA?
+	When Fire Break is on, they're looking for 5A, Maragi, or maybe a super.
+		5AAA > Maragi unblockable reset. Works on hit. They'll sometimes try on block, but you can DP/roll it after blocking 5AAA
+	For unblockable Maragidynes, roll SB version, superjump C and D versions
+	For unblockable Agidyne, superjump j.B+D can go over it if it's approaching. Roll the finisher on reaction otherwise.
+	Bait DP. Jump in and block.
+	Airdash over dumb 5/4/6B fans.
+	Most decent Yukikos won't actually throw unprotected 5/4/6B fans, and will often throw 2/1/3 fans.
+	When you jump at each other, you're probably going to lose the exchange because her j.A outranges a lot, airdash back fan beats everything, and j.C+D is very powerful.
+	Airdash over j.C is a good approach.
+	Jump forward block is a great way to close distance.
+	You can tag Konohana Sakuya after 214A/B, but watch out for fans covering her.
+	I think you can backdash D Maragidyne to avoid the resulting mixup. If they do the usual D Maragidyne > Fire Break you can punish by mashing God's Hand.
+	Late tech high/low unblockable setup.
+	Never ignore Konohana Sakuya. She stays for a while after a D move and you'll just end up running into a 5C/2C if you try to run through her.
+	If you have an opportunity to run at Yukiko, see how she responds. Catch jump backs with overshot 2B. Her 5A and 5C will beat most of your approaches, and check for DP.
+	5C beats your dumb airdash approaches so watch out for that.
+	Respect Agi oki because once you block the mixup she has like no way to open you up.
+	Take fan hits in the air to help with closing distance. Against Yukikos that like to stay still, this is strong. Smart Yukikos will recognize this and run under you to reestablish space.
+	Always be aware of air grabs either when approaching aerially, jumping defensively, or after an AoA~C combo.
+	Watch out for DP > Agidyne. You can prevent this with a quick 5B to hit midair.
+	On knockdown, run forward > backdash > they will grab or DP > 5B CH.
+		After run forward > backdash they will either roll, DP, or grab.
+			5C beats roll and grab. Followup on roll with 2C. Follow up on grab with dc > 5B.
+			5C will get armored through on DP. Dash canceling allows you to reestablish pressure, but won't give you a hit, and Yukiko could DP again through it. Delaying the 5C or using 2C or just waiting will cover DP, but won't really let you punish grab and can be tricky to punish roll.
+			With fast enough reflexes, you can react to the DP startup animation and 2C against that and 5C for everything else.
+			This loses to jump out and some buttons.
+	I've tried playing a game where I didn't press buttons. I got perfected by a pretty bad Yukiko. Sometimes approaching like a madman is the way to go.
+	Throw 236A into a blockstring and then block to bait a DP.
+	Sometimes your AoA and their DP will armor through each other which leaves you with the situation reset. Sometimes they'll DP again so watch for that.
+	Whenever they air tech in the corner, they always j.2D and double jump and block all the way down. I don't quite know the answer to this yet. Sometimes you can 2B/air grab.
+	I've recently been using Guard Cancel Roll a bit. It's harder for the Yukiko to bait because of the ending lag of the move (although she can still bait it and punish hard!) and leaves you in a good position to punish/apply pressure. Yukiko has low HP so Chie doesn't need a lot of resources in order to get the kill, although don't waste all your resources on guard cancels.
+
+Yuu Narukami
+	j.B safejump is 2 overheads
+	214B feint > j.2B crosses up
+	I don't actually know how to beat 5D oki.
+	Jump back > j.2B is an overhead
+	j.2B is godlike and hits everywhere
+		You pretty much can't contest him in the air if he's aware
+	One way to get in is to jump in on a Zio
+
+Yosuke Hanamura
+	Always watch out for Mirage Slash (j.2C/D) as it's a low that starts in midair and the puff of smoke doesn't necessarily indicate it's coming.
+	You can only burst Sukukaja combo at the start of the vertical hit
+	Watch out when jumping away because his 2B is pretty good
+		When they do the run up 2B whiff thing, punish it.
+		If you block grounded and they don't do anything it's -15 on block
+
+Chie Satonaka
+	Always round start 214B. It handles a surprising amount of options well and is just all around dumb.
+	j.D controls aerial space from dumb aerial approaches well.
+	j.B and j.C beat j.A
+	2B is hard because the angle Chie wants to jump in at will cause 2B to whiff
+	Expect your opponent to be very comfortable with knowing how safe your moves are.
+	5A/2A/Grab stagger pressure is actually pretty scary.
+	I don't think Chie has a good answer to 236B~236B > 5C > j.A > j.8D > 2B
+	I don't think Chie has a good answer to corner j.C pressure
+	You should know how strong Chie is on offense and how terrible she is on defense. Be the first to get momentum.
+
+Kanji Tatsumi
+	5B > Command grab
+	whiffed 236A > Command grab. Space 5C to punish
+	Lighting (D normal) > AoA, 2A, delayed command grab
+	Lightning air hit > j.236A/B unblockable
+	Don't get hit by lightning
+	Don't roll out of lightning because you'll just roll into Kanji and get grabbed
+		Guard Cancel Roll when he's nearby is okay, though.
+	Stay just outside Kanji's 5C range. Poke with dash 5C
+	Safe jump with j.C, although the timing is wonky. You can't safe jump j.2B against his DP
+	Lower level Kanjis are less afraid to command grab
+	Use 5C/5DD/2DD in corner for pressure as he doesn't have many good answers
+	Run forward > jump forward > backdash is pretty good on knockdown to see what opponent likes to do on wakeup
+	Backdash might be strong on wakeup?
+	When you get hit by 236236A and Kanji has over 50 meter remaining, keep spamming jump back because he'll likely go for OMC Command Grab
+	Watch out when air teching because of command grab resets
+	In neutral, whiffed 236A/B normally means a command grab followup.
+	Stay crouching when Kanji's in the air because of j.214A/B/AB. At the very least, crouch block j.236A/B/AB
+	Watch out for antiairing because j.C leads to 7k on counterhit and is an amazing antiantiair
+	tl;dr if Kanji is in the air, if he uses Cruel Attack he's actually using air grab, if he's using j.B then he's probably using j.B and then using (canceled chair into) air grab, and if he's not doing anything, he's using j.C
+	I feel like Kanji would have trouble with ... > 236B~236B > 5C > j.A > j.8D > 2B AUB reset but I haven't used it on a good Kanji yet.
+	Higher level Kanjis are looking for up back on wakeup and will 5A jump start up. Lower level ones will DP. I think fuzzy backdash is a thing where you input 4[4](C+D?) and will block meaties and backdash anything else.
+	Kanji's 5C doesn't hit higher than his head, so jump over j.C might be a good option.
+	j.D moves are pretty good at controlling Kanji's aerial approaches
+	Consider fuzzy hopping although know that many Kanjis' gameplans are to catch you in jump startup when you're afraid of a command grab
+	
+
+Sho MINAZUKI
+	This matchup is impossible. Only way to get hits is if the Minazuki overcommits for no reason.
+	Only meterless thing that beats 4A is well spaced over the head j.C and DP. 214C will sometimes beat sometimes trade.
+	2B is terrifying. I think j.C to air stall into j.B from behind might be one of the only responses.
+	Never airdash at him. Always keep at least one aerial mobility option when aerially approaching.
+	Well spaced 5C in neutral might be usable.
+	If you're slow to react to teleport, DP is a good option. DP is also probably the safest option in that Minazuki has trouble baiting it with SB teleport. Watch out if you react too fast to teleport, though, as it'll beat DP if you're too fast.
+	2B against dumb teleports
+	Teleport is +4 on block because ????????
+	Most Minazukis will not do anything out of second hit of rekka so you can 2B or j.C+D sometimes
+	Sometimes they'll do SB third hit rekka though and then you are going to hurt.
+	2nd hit of rekka > OMC > sweep feints high and goes low. Beat by blocking low until last possible moment.
+	Stagger pressure into command grab is hard to deal with. Many Minazukis telegraph command grabs because he has to be fairly close and outside of his ideal 4A range
+	Watch out for whiffed 2A > command grab after knockdown
+	Minazukis will go for teleport IAD airturn j.B resets so always pay attention when getting hit
+	Watch out for super canceling blocked DPs. Otherwise, 214C FC CH in the corner will pretty much kill him.
+	(Bad) Minazukis love DP
+	Using D moves in this matchup is okay, such as j.D and 5D, as they scare him from swinging his sword a bunch and give you a chance to get in
+	Can bait 2B with air backdash > microdash 5C
+	Chie's dash cancel 5C is -3. His 5A is 9 frames, so 5C > dash cancel > 5A beats his 5A. His only ways to beat it are 2A, grab, DP, and super. You can beat the first two by j.C, and the second two by blocking.
+	Bad ones will always teleport at some point, so you can just look out for that for your opening.
+	At some point after 4A's (and he can only do 3 in a row), he will have to move up to restart pressure, or continue with other moves. You can risk 2A at that point. If he continues with other moves, you can try to punish when the blockstring ends, assuming he doesn't end in SB rekka.
+	While it is nearly impossible to open him up if he doesn't take risks, he too has to take some risks to open you up. He has to get close for grab/command grab, teleport and aerials can be 2B'd, and AoA is not particularly safe.
+		Watch out if he tries to bait these options though because then you're sad.
+		I don't know how teleport works in the corner against 2B yet.
+	Punish DP by running under 5B to avoid super
+	Doing 2B AUB resets is hard because he can just mash air DP for very little risk
+
+Marie
+	Bad Maries don't know how to not divekick. Punish j.C with 2B or AoA
+	I think you can just Fuzzy Jump her blockstrings
+	Block low after evil eye oki because sweep > activation leads to full combo
+	j.C doesn't hit high in case you didn't know
+	5A hits low
+	Punishing DP too quickly results in an air hit, so 5B (CH) won't always go into 2DD
+	Run Amok (236AB Bag hit special) is +2 on B/SB versions and -4 on A version
+	??????????????????????????????????????????
+	I don't know I've never actually won this matchup before
+
+Ken Amada
+	??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+	Punish DP with IK
+		If you're too fast on the IK, it'll whiff
+	On blocked DP, backdash twice and 5B
+	Hitting Koromaru makes combos go wack
+		I hit Koromaru with 5AA and got 5AAA to come out too
+	HE DOESN'T HAVE TO COMMIT TO ANYTHING
+	It's hard to hit dog unless you hit with something that hits the floor
+	2B hits low and behind
+	5C > j.C > j.C hits dog
+
+Yukari Takeba
+	5A is low.
+	Feather Flip is high.
+	Feather Arrow can be rolled through on reaction. Watch out because rolling too fast in anticipation for A arrow gets caught by B arrow
+	Watch out about teching midair when a Feather Bomb is on screen.
+	Guard Roll out of Magarula if possible to avoid dealing with high/low. Can't Guard Roll out of SB Magarula though. Watch out about Guard Cancel Attack because a good Yukari will be able to react and deal with it and the Magarula hits slow you down.
+	Like Yukiko, likes air throws
+	Approach matchup similar to Yukiko
+	Chie can sometimes run under 5B. I have no idea about the specific circumstances, but it means that if you yolo charge at a Yukari, sometimes you'll just duck under 5B and then be able to punish.
+	Just running straight at Yukari seems to be an okay option in general, because her options are 2B to read a jump-in, 5B which you might be able to run under and can roll through, and Feather Arrow, which can also be rolled through. She could get gutsy and do a Persona normal/special, but that's a bit more rare and those have longer recoveries to punish. Her other option tends to be jump forward airthrow or run away
+
+Labrys
+	Fuzzy Jump blockstrings
+	Don't challenge j.B in the air
+	2B beats j.B, but it's hard
+	5A > 5AA > 5B is not a DP safe string, but the 5B can be delayed to catch DP
+	Watch out for 2B antiair
+	Don't roll 5C
+	5A > 5AA can be backdashed in the corner and punished
+	Can DP through a lot of her stuff, although obviously DP is risky
+	You can't actually punish any Guillotine Axes. B and SB are +/-0 on block, and A is -5, but it doesn't matter because you can't reach her to hit her anyway after it.
+	Slightly delay tech to handle 22A/B/C/D oki > high/low mixup
+
+Mitsuru Kirijo
+	2A goes under Coup Droit and 5A. Not particularly great, though.
+	It's hard to 2B Mitsuru's j.B because of the length of her sword.
+	She can't gattle into 2A and the rest of her lows are very slow. Blocking high is valuable because she can j.B > OMC > j.B for instant overhead starter.
+	When a Mitsuru goes for a sweep, very rarely is it a sweep, and more often it's a grab or a 2B or something. Consider AoAing it because they rarely sweep (feint) > block. Hop is also strong, but I don't know how much.
+	I think 5B can be feinted into grab, but I'm not sure.
+	Fuzzy Jump grabs because 5B wrecks standing whiffed grab from trying to grab tech.
+	Her 2B is strong so watch out when aerially approaching. It has some troubles hitting directly above, though.
+	If you read a 2C you can punish it. Hard to punish on reaction because she'll punish the punish. Maybe God's Hand?
+	Often they'll do something like 5C > backdash > 5C > 2C or 5C > backdash > 5C > Coup.
+	Her pressure in general isn't very tight, so you can God's Hand through some things. DP wisely because some of her gaps are large enough to avoid your DP
+	In the corner, watch out for Grab > Bufudyne AUB reset. If you get caught in this, airdash out is a possibility, Gold Burst through is another. DPing through is hard. One option is to not airtech after being grabbed but Grab > 5A is pretty tight so it's not inconceivable that a Mitsuru would drop it.
+	Being about 3/4 screen is a pretty good distance. If you can bait a 5D/2D, there's a large deadzone closer to Mitsuru so you can get in and hit her.
+	Against bad Mitsurus, they like DPing on wakeup so safejumping that leads to death. Against good Mitsurus, pretty sure it's impossible to win.
+	You can't backdash her wakeup DP for some dumb reason. It'll still tag you, so the run up backdash throw/DP bait doesn't work.
+	On round start, 2A beats Coup, frame perfect IAD j.C beats 5A and D Bufula, 214B beats C Bufula.
+	Autocombo ends in restand. After the first autocombo, they'll always go for a Grab or a 5A to catch a jump. Block and look out for the grab and tech on reaction. Mashing backdash beats both of these, actually
+	I don't think roll beats anything except maybe 5D/2D or Tentarafoo in your face. "Doesn't beat" means she punishes you and you die. Just don't roll.
+	You can't DP her DP. You won't hit her and then she can punish you.
+	She's pretty good at hitting you if you try to backdash her pressure.
+	j.B is an instant over head that she can convert off of with OMC. Her only lows are 2A, Sweep, and Tentarafoo so you can block high and react low actually.
+	Corner j.C pressure doesn't work on her as she can challenge with DP or Coup
+	You can jump in on a 5A.
+	She has trouble the space right above her head so abuse that with jumps, while maintaining aerial options.
+	5C > backdash > 5C > 2C > Coup is a sequence you'll see a lot. You can probably jump in after the second 5C for a punish. See if the Mitsuru is one that uses Marin Karin or not.
+
+Aigis
+	Accept the fact that you are going to get hit
+	Apparently you can mash 5A out of her mixups to catch Orgia change?
+	Against a bad Aigis, just preemptively 2B as they'll want to fly into your face.
+	Roll 2B sometimes.
+	Reminder that SB Shield super goes back and forth. Hard to identify the animation. I think you can tell from startup?
+
+Tohru Adachi
+	Bad ones will DP all the time. It's annoying because it's an overhead as well. Safe jump is annoying because it's j.2B > 4.
+	Meaty 4A beats wakeup DP. Practice reacting to different situations though. CH and DP are easy to react to, but non-CH and block require different responses.
+	DP has a lot of range, too, so it beats 5C > j.C > j.C > 5C in the corner. Obviously you can bait it.
+	Watch out for command grab
+	Watch out for AUB resets as he has a lot
+	I don't think I've ever seen an Adachi normal throw so Fuzzy Jumping isn't as useful.
+	He has an awakening command grab super.
+	5C or shoot on round start. Down back safest option.
+	Jump and IB 5D for tons of meter. Consider playing Shadow Chie if the Adachi likes 5D because you pretty much get a free Shadow Frenzy after one of these.
+	Always watch out for 2D
+	j.C is hard to beat.
+	Pain in the Ass (236A/B/AB walking tackle move) is -10 on block. Consider punishing?
+	Gun shot (214A/B) is -1 on block, and +13 for SB. Apparently forces tech so watch out for resets from that.
+	DP is 2 hits high -> low. He can super cancel after either hit, I think.
+	A Atom Smasher is -30 on block. B/SB are +2 on block. There are talks of rolling it but I don't know the frame info on that. You can't roll after the super flash for SB version and need to delay the roll for D version. Looks like you can roll the C version for free, though.
+	C/SB/t.k. Dragon Kick is surprisingly effective at countering j.C approaches. Be careful about using a non SB version because it's not particularly safe.
+
+Elizabeth
+	Watch Elizabeth for 5C > 2C/5D/j.C/214A mixup. Higher level Elizabeths will 5D less often than lower level ones.
+	Stagger Pressure > 2D = trying to catch jump with 5A. DP out is a possibility. Sweep/2A maybe with good reaction speed? Consider AoA. Backdash should work.
+		On that note, combo > 2D happens a lot.
+		At this point I've gotten to really janky RPS involving wakeup mash 5A/2A/2B/5C/2C, wakeup DP, wakeup backdash, wakeup grab, wakeup block against the incoming 2B/grab/5C/5A/wait. I've personally been using backdash a lot which might not get me poisoned depending on timing, but loses to 5C.
+	Her 5C is good at at catching backdashes
+	Her j.C ender can lead to 5D reset
+	Avoid jumping at full screen because of 214AB
+	Liz often baits rolls. Try not to use them.
+		If you do get a good roll, 5B CH punish takes away over half her life
+		I feel like rolls unfortunately offer one of the only ways in, so don't roll stupidly and you can win. The other possible ways are good jump ins and DPs.
+	After teching a grab or getting your grab teched, roll. They'll often throw a 5B/5C. You can punish both with run a bit and then roll
+	If you ever block Liz's 2B while grounded, punish with 2B. I don't think it's ever unsafe except maybe against OMC j.A. Haven't tried 2B > j.C yet but it might beat 2B too, although I don't think the j.C is particularly safe so they probably won't do it except on super hard 2B callout. Watch out for spacing, though, because if she's far away enough your 2B will whiff and get punished by her j.B. If she's too far to hit with 2B then keep crouching under the j.B and run up for a 5A punish. The only thing she can do after 2B > whiffed j.B is Randomizer or DP, and they'll rarely use Randomizer. If you block the j.B then they can cancel into things like j.C
+	In the corner 5C > j.C > j.C > 5C > j.C x infinity is surprisingly strong. See other Chie notes for details of tightness. The correct answer for Liz is to 5A Tomoe and then 5B to hit Chie, but sometimes they'll roll. Beat this by stopping after 5C > j.C and land and punish.
+	236B~236B > 5C > j.A > j.8D > 2B is pretty strong. 236B~236B > 214B > 2B is not.
+	Liz likes mashing 2B. Puts her in the air quickly and is good against a lot of stuff. Strong against 2A and grab.
+	Antiairing Elizabeth is hard because so many moves alter her vertical position. She also likes falling with j.B which is very strong against antiair options like 2B and j.C+D. She can always 236C/D while falling to alter her momentum as well. Against a falling j.B, running up and "antiairing" with 2A kinda works because it low profiles j.B
+	Beating Shuffle Time is free. If you're having trouble, go beat Score Attack with a few characters. As such, going for airdashed highs after knockdown is pretty good. Just don't get 2B'd.
+	214C/D/CD will lead to a mixup and crossup. Mash backdash to IB backdash out of it if possible.
+	Chie can (super?)jump/airdash over 5C and punish hard. You can't really react for it though, you kinda have to read it. You can also roll through a read 5C. Elizabeth only gets options off of block/hit 5C so avoiding getting hit leaves time to punish
+	Don't try to punish blocked 5C. Wait for the 2C/5D/j.C/214A/OMC 5C and punish after that.
+	I think Meaty 5A actually beats everything except Randomizer on knockdown. Should recover in time to jump for Ghastly Wail too
+		EDIT: Randomizer does not actually have good invul. A version is invul frames 4-18, B is 7-60, and SB is 2-42 so it loses to meaties always.
+	Punish Randomizer with 5B (CH) > 5C > j.C path shown in notes. More consistent than 5B (CH) > 2DD path and more damage then 5A air hit punish.
+	For Liz's jump, 5A is much better catching on the way up than on the way down
+	Never blue burst, except for game ending combo. Sparingly gold burst. OMB is strong because Liz has little health. You'd better know what you're doing if you burst on not the last round when Liz still has a burst because she will IK you. When blue bursting, try to avoid doing it midair. Don't blue burst 5B until it brings you all the way back to her. If she is killing you at long range and you need to burst to survive, burst through Maziodyne on reaction
+	Liz can IK off of 236B~236B > 5DD oki
+	Watch out when teching because Liz is good at resetting. Teching/breaking out of ice midair -> 214AB/j.D reset. Teching/breaking out of ice on ground -> 5D reset/236D maragidyne oki.
+	Liz can also 5D on no ground tech.
+	Watch out for Maziodynes. Remember that awakened 236AB shoots twice. You don't have to respect B Maziodyne but disrespecting it can be scary.
+	If you can, kill Elizabeth before she awakens. It's not hard with Chie damage. She has 8k HP which means you only need 1-2 big openings to kill her.
+		I remember one round where I guessed the round start 5C, rolled through it, got the 5B (CH) punish, reset on the 2C > AoA, killed with the AoA~D combo, and won the round instantly. I don't think this matchup can ever truly be bad as long as this is a thing.
+	Fear is frightening. You can't tech grabs so grab mixups are scary. You can try DPing out but it's all just RPS at that point.
+	2C is often used to catch rolls so don't roll through that. You can only roll through it sometimes?
+		I think if they delay the 2C you have to delay the roll
+		If they don't delay the 2C you can roll through and punish with 5B (CH) if they're close enough.
+		If they delay the 2C I think you can break Thanatos and reset to neutral
+		2[C] can be followed up with 2C or j.C or 5D so blocking it kinda puts you in the same situation as blocking 5C
+	5C > j.C > j.D is a string I've seen occasionally for some reason. I think the j.D combos after j.C but if you block the j.C the Liz gives up a lot of screen space. Watch out for Maziodynes when you rush in of course.
+	In general be patient in this matchup. You will spend a lot of time half to full screen. Liz has a hard time opening you up because at full screen all she can do is 5D and when she's in your face she'll only really be looking for C+D, as she probably won't AoA in your face and you can mash out of 5D and punish her if she does it close range.
+	If she's playing the full screen game, just break cards and slowly move in. If you can dodge a 5C chances are that's the opening you need to take the round.
+	If she's doing closer range pressure with 5A, 5B and dash canceled 5C(1), I haven't quite found a solution yet. It's hard to beat a well spaced dash canceled 5C(1) > 5A. I imagine rolling through the 5C is the way to handle it. 5C(1) > dash cancel > 5A leaves a 11 frame gap so you can't use 5C to punish because that's 12 frames. You can't roll through because the 5A recovers in time to punish the roll. After some testing:
+		Roll loses on distant spacings but beats close ranged 5C. Not recommended because any time you could roll you could punish
+		Backdash works on all spacings against 5A and can punish with microdash 5C. Loses to 5C (1) > dash cancel > 5B though
+		Jump out will work but will lose to a hard callout 214A and 2B at near spacings. Superjump will work against all 2B and distant 214A
+		2A can beat 5A if it's not well spaced, although that's rare. Microdash 2A will always beat it, but the input is annoying and if you aren't fast about it you'll get hit.
+		5A can beat 5A if it's done at point blank, which will about never happen. It can beat further spacings with microdash, but in general is not a solid option.
+		5B is the same story as 2A, although it has less reach so there are some very far spacings where 5B will whiff where 2A would hit, but the microdash input is easier with 5B.
+		2B will beat 5A on all but the farthest spacings (including some spacings where the 5A would normally whiff). Unlike other moves, microdash 2B won't work against farthest spacings because 
+		2A+B is the same story as 2A although it has slightly smaller range and is slower startup. If you're a bit slow and it trades then you will be standing and Liz will be knocked down.
+		AoA will beat all spacings where the 5C(1) hits and will armor through 5A, but if they react to it after the 5A they can get out and if they bait it then you failed an AoA
+		5C will always lose except on IB and if the Liz is slow.
+		2C will only work at very far spacings where the 5A would whiff and can be dash canceled for a combo
+		214A/AB is the same story as 2C although the slight pullback allows you to punish marginally closer spacings. 214B gives too much time to react and can actually lose to 5A mash
+		214CD will always win
+		DP mash actually doesn't work if you're too fast. Shoutouts to the DP catch only being 9 frames.
+		Microdash grab actually fares pretty well and is one of the only options that can contest 5C (1) > dc > grab. Loses to some spacings of 2B though
+		Obviously supers. A Power Charge gives you time to react and can't be punished by anything she can throw out, and God's Hand will hit her if she commits to a move, but of course that can easily be baited.
+	I play this matchup poorly, but I use my health as a resource and am fine risking getting hit by antiairs for 2.5k because getting in is so valuable
+	Almost always assume D Maragidyne and go in for the punish. If they start incorporating C Maragidyne, then start respecting it, though.
+	There's a long combo that ends in SB Mabufudyne > SB Ziodyne > 5A > 2B AUB reset in the corner. Don't tech it because you're shocked and can't double jump out. Maybe you can SB Dragon Kick out. One variation is (Awakening Only) 2B AA (CH) > j.C > 236CD > 5B > 2B > j.B > j.A > j.C > 2A > 5B > 5C (2) > 2C > 214AB > 236AB > 5A > 2B AUB reset.
+	With good reactions, AoA beats DP handily.
+	A good spacing to be in is about a jump/superjump's distance away from Elizabeth. If she throws out a move you can go over it/roll through and punish.
+	Her 2B hits a bit behind her, meaning it can beat some spacings of j.C. I think doing an aiturn backdash j.B can handle the situation well.
+	You can roll Maziodyne on reaction. You'll roll through A Maziodyne and recover fast enough to respond to B Maziodyne. Don't think you can roll through SB Maziodyne.
+	If the first hit of her 5C whiffs use that opportunity to roll through it and you'll normally be able to punish or at least apply pressure.
+	When you're shocked, watch out for Liz's position when she 5D's. She'll be able to react to a successful grab or punish the hop if you try to hop out. Mashing might be the only option?
+		On that note, you can mash out of 5D. 5A > jump back is a good option select against 2C/5D after 5C, but loses horrendously to j.C and OMC > 5C.
+	Consider 2B > dash cancel against 5D?
+	Sometimes they'll throw out 2C whiff to punish the punish
+	2C has been okay as an unexpected far poke
+	If they ever get too DP-happy on wakeup, call it out with stand still AoA on reaction.
+	If they ever get too Randomizer-happy on wakeup, grab will whiff and still give you time to punish
+		Loses to wakeup 2B, potentially all the time.
+	Consider DP on knockdown? As long as it's not too predictable, it should beat wakeup mash (2B), DP, and Randomizer with good reactions, and if they don't expect it, it's fast enough to maybe resume pressure. Obviously a dumb idea, but I personally get a lot of mileage out of being dumb
+	Consider air backdash whenever airteching to avoid Mabufudyne shenanigans
+
+Akihiko Sanada
+	Rekka is apparently not that safe. Fuzzy jump out of grab, jab out of 5C, DP out of everything else, allegedly.
+	His 2B and DP don't have much range so it's possible to dance around them.
+	He can crossup during rekka with SB Ducking (I think? TODO: Confirm later)
+		Mashing A Power Charge is pretty good against this, because it'll come out as 2A if they cross up and hit them. It'll come out as 214A sometimes though
+	Watch out for pressure > Maziodyne > OMC > unblockable. Guard cancel attack/roll out.
+	After knockdown can jump air turn backdash for crossup overhead
+	SB Hook has armor so can be used to catch mashing
+		Might be able to 5AA > DP against it, though
+			I tried. It's hard, but doable
+		If you can grab it, it's pretty hard
+		Rolling/jumping out is the safest option. You can AoA it though
+	Maziodyne beats Agneyastra
+		If they're slow, you'll block and Agneyastra will win, though.
+	Most abnormal mixup during rekka requires meter so keep an eye on his meter
+	You can mash out of a lot of his blockstrings, though. Like rekka
+	Mashing DP is hard because most of his stuff is actually just too slow to get caught
+	j.B is 2 hits
+	Late teching avoids a lot of bad situations and I don't know how hard he can punish it.
+	His only low is sweep so it's okay to just stand block a lot sometimes. He can sweep at any point though so don't exclusively stand block
+	Watch out when trying to hit with 5C in neutral. He can punish a whiffed one with B Rush
+	A move I've seen is Backdash > B Rush to invul through pokes and whiff punish
+	I feel like his 5A outranges Chie's
+	There are some spacings of his 5C in pressure that outrange all attempts to poke. You can roll through and punish. It's generally the option they choose at that spacing so it's not that hard to read.
+	I feel like rolling beats/handles a lot of pressure options except obviously grab.
+	One of the dumbest strategies I've employed is to get hit until Akihiko has over 25 meter, late tech the incoming mixup after knockdown, and then react to the SB move they eventually use in pressure and punish. Don't do this. It's dumb. But it's also amazing.
+	If you end up in a Maziodyne > OMC > unblockable setup, taking it isn't the worst thing in the world, as the resulting combo can't be THAT damaging for Akihiko. I apparently suck at inputing Guard Cancel Roll
+	Antiairing is really hard
+	His AoA actually beats Chie's DP. Not like "Oh, it's at a different timing so it avoids the DP catch" but like "He is crouching on AoA recovery so Chie's DP goes over him and he can punish"
+	2A poking might be working. Who knows.
+	His 5C can actually catch the end of a roll for a full CH combo
+
+Shadow Labrys
+	Read BKen's guide
+	When she has a burst, look at her burst. When it's X'd out, she's doing a persona move.
+	Sometimes you can get away with dumber stuff in neutral than against Labrys because she's concerned with Asterius
+	5C pokes Asterius to stop her from shenanigans
+		B moves and Persona moves are the only things that can break Asterius
+	Asterius will block meteors allowing her to DP
+	They like to DP to bait and do gimmicks with Asterius
+	Some Shabryses are spoiled by safe DPs, so they're more prone to DPing than usual.
+		In general, if they DP on wakeup or out of pressure, that's safe to punish. If they DP in neutral or during their pressure, it's normally a bait.
+	You're at the disadvantage on round start. She can hit you and you can't really hit her, so she can play around that
+	Pretty much once you're in her face she can't really do much to get you out so don't let her get started
+	After knockdown watch out for crossup set ups
+	SB air Guillotine Axe > Command Grab
+	Moves that break Asterius:
+		5B
+		2A+B
+		j.B
+		j.2B
+		5C
+		5D (Last hit)
+		2D (Last hit)
+			Meaning, not 5DD/2DD
+		j.C
+		j.D (Last hit)
+		214A/B/AB
+		~236B/AB (Skull Cracker)
+		214C/D/CD
+		236C (236D/CD whiff against grounded Asterius)
+		236236C/D/CD
+		214124C/D/CD
+
+Junpei Iori
+	In the corner watch out for 2B AUB resets. Tech > airdash out is an option. No tech is another option although it gives him another hit.
+	Keep distance with 5Cs.
+	If he slides in, that's unsafe on block but a pain in the ass to block a well spaced D/SB version because sometimes it's high/low sometimes it's just low. If you block, punish with 5B. Consider AoA against it?
+	If he goes for a full screen Trismegistus at you, it has long startup so you can close distance and start hitting him.
+	Bunt has armor so watch out for that. SB bunt is +1.
+	If he's on you in the corner, guard cancel attack is good because it limits his momentum and runs
+	Don't get hit. Keep an eye on bases. Use resources to get 3rd out to keep him from getting runs. Earlier bursts are more acceptable in this matchup to keep runs down.
+	Treat him as a grappler as his blockstrings are scary when he's golden.
+	DPing slide is one of the most questionable things ever because it goes over Junpei and whiffs, but I don't think I've ever actually been punished for it yet, so I don't know how capable he is of it.
+
+Rise Kujikawa
+	Watch out for j.B > j.A double overhead.
+	If she uses 5D or 2D at close range, just run up and hit her. Or at the very least hit Himiko
+	During Risette Field she can only high/low. She can't grab. Just watch out for AoA or aerial approaches.
+	Don't underestimate range of DP
+	Rise likes putting out notes and tagging the top one with j.B, so don't run into that.
+	Don't try contesting the notes too much
+	When in the corner, learn to block.
+	Her 2B is a lot better than it seems.
+	Watch out for D/2D laser into roll/jump over crossup.
+	After sweep, tech and block 236B oki. A good Rise can follow up off the OTG 236B hit for a strong combo continuation as a no tech punish. No teching sparingly can force the Rise to stay honest, however, as sometimes they won't react to the 236B OTG.

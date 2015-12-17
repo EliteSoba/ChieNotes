@@ -1,0 +1,53 @@
+﻿Optimal(?) 5B (CH) > 2DD damage paths
+Default knockdown path is:
+5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B [4462/40%] midscreen and
+5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D [4561/46%] corner/near corner
+
+Midscreen:
+	Burst:
+		0 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 236C [5590/21%]
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > 236D > OMB > 236D [5510/42%] (Near Corner)
+		50 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [6564/-29%]
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6669/-29%] (Near Corner)
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [6613/-30%] (Awakening Only)
+		100 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 236236B > (66: must dash to close distance) > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5C > 2A+B > 214A > 214C > 236236C [7733/-82%]
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 236236B > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [8253/-82%] (Awakening Only)
+		150 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 236236B > 5C > 2C > dc > 5C > 236B~236B > 236236A > 236D > 214214C > j.236D[11231/-132%]
+	No Burst:
+		0 Meter:
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 236C [4920/50%]
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D > 236D [4993/58%] (Near Corner)
+		50 Meter:
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214C > 236236C [5918/-7%]
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6077/0%] (Near Corner)
+		100 Meter:
+			5B (CH) > 2DD > 236236A > 5B > 2B > 5C > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [6362/-93%]
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 236D > 214214C > 236236D [6986/-66%] (Awakening Only)
+		150 Meter:
+			5B (CH) > 2DD > 236236A > 5B > 2B > 5C > j.C > j.236B~236B > 236D > 214214C > 236236D [8080/-143%]
+Corner:
+	Burst:
+		0 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 236C [5590/21%]
+		50 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6669/-29%]
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [6709/-29%] (Awakening Only)
+		100 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 236236B > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [7733/-82%]
+			5B (CH) > 2DD > 236236B > 236B~236B > 236D > OMB > 236D > 214214C > j.236D [9052/-93%] (Awakening Only).
+		150 Meter:
+			5B (CH) > 2DD > 236236B > 236B~236B > 236236A > 236D > OMB > 214D > 236236D [10860/-143%]
+	No Burst:
+		0 Meter:
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D > 236D [4993/58%]
+		50 Meter:
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6077/0%] 
+		100 Meter:
+			5B (CH) > 2DD > 236236B > 236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6858/-93%]
+			5B (CH) > 2DD > 236236B > 236B~236B > 5C > 2C > 214B > 236D > 214214C > 236D [7489/-93%] (Awakening Only)
+		150 Meter:
+			5B (CH) > 2DD > 236236B > 236B~236B > 236236A > 236D > 214214C > 236D [10504/-143%]

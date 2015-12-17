@@ -1,0 +1,74 @@
+Various Move blockstun
+Useful for determining the gaps between moves when canceled into each other
+The number of frames here is the number of frames when a followup move's startup will no longer be frame tight
+Ex: 5AA > 2A+B is tight and 2A+B has 9 frames of startup. 5AA > 2B is not tight and 2B has 10 frames of startup
+
+5A: 10f
+5AA: 10f
+2A: 11f
+5B: 15f
+2B: 15f
+2A+B: 15f
+
+5C: 17f
+2C: 16-17f
+
+Rampage only cancels into Skull Cracker, Dragon Kick, Black Spot, and Supers
+236A: 6f
+236B: 17f
+236AB: 17f
+
+Skull Cracker can be canceled into Dragon Kick, Black Spot, and Herculean Strike
+~236A: 10f
+~236B: 10-11f
+~236AB: 10-11f
+
+Herculean Strike can be canceled into Dragon Kick(?) and Black Spot
+214A: 10f
+214B: 7f
+214AB: 19f
+
+Startup frames for reference:
+5A:		5
+5AA:	8
+5AAA:	10
+5B:		7
+2A:		7
+2B:		10
+AoA:	26
+2A+B:	9
+5C:		12
+5D/5DD:	43
+2C:		23
+2D/2DD:	26
+
+236A:	11
+236B:	19
+236AB:	12
+~236A:	6
+~236B:	10
+~236AB:	5
+236C:	18
+236D:	30
+236CD:	30
+214A:	15
+214B:	31
+214AB:	17
+214C:	13
+214D:	26
+214CD:	21
+
+After jump cancel, 5 frames of no input (so add +5 to all startups here)
+j.A:	5
+j.B:	8
+j.2B:	9
+j.C:	11
+j.D:	24
+j.236A:	6
+j.236B:	9
+j.236AB:7
+j.236C:	14
+j.236D:	16
+j.236CD:13
+
+Keep in mind that only j.C and j.236A will hit an opponent if done instantly. j.B works against Narukami and perhaps some other tall characters. j.236B only gets the first hit off if at all and will continue too high

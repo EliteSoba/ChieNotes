@@ -1,0 +1,449 @@
+Random Chie gimmicks
+
+Basic Chie Gameplay:
+	I'm going to write this down because I see way too many Chies doing silly things. These are my notes on how to play Chie based on my own experience, videos I've seen of successful Chie players, and listening to things better players have said, but these are all my interpretation of things so some things may be truer than others.
+	Chie really struggles in neutral because of her limited range and Persona cards. Her Persona-less normals are outranged by just about every other character's normals; her Persona normals, while usable, aren't particularly great; and she only has 3 Persona cards which means using them is risky. If you've played Chie for a while against a competent opponent you should understand how much of a struggle it is getting in at times. As such, Chie only really shines when she is hitting the opponent and the opponent is either being hit or blocking. Chie only really has a decent time in neutral against a worse Chie.
+	As such, if you ever get a hit, you want to make sure that you confirm that into a combo that ends in knockdown so you can turn that into another combo or shield pressure into another eventual combo. What this means is that you shouldn't be ending combos in Dragon Kick or Black Spot unless it will kill. Chie's main source of damage comes from reversal punishes or corner combos; the point of everything else is just to build meter and push to the corner.
+	So instead of ending combos in Dragon Kick or Black Spot, Chie should end her combos in Sweep, A Herculean Strike, or B Skull Cracker. All of these lead to safe jumps and B Skull Cracker leads to 5DD okizeme in the corner. Quick term definition if you didn't know: a safe jump is a carefully timed aerial after knockdown such that the move's active frames happen after the opponent wakes up and becomes vulnerable again, hitting them before they can perform any moves or roll or really do anything besides block. If they try to use a reversal move such as a DP or a wakeup super, to invul through the attack, you land before the move becomes active and are able to block the move because there's no landing lag. Because most reversals have lots of lag, you can punish with 5B, and a 5B counter hit combo does over 4k meterless. You can practice safejump timing in training mode by setting a Narukami (doesn't really matter who as long as it's not Kanji, Yosuke, Adachi, Elizabeth, or Margaret because you deal with those slightly differently) recording to mash DP from frames ~100 to ~600, play back the recording, and do 5AA > 5C > 2B > 5B > 2A+B > wait > j.2B while holding 1 the entire time. If you do it correctly, you'll block the DP. Replace DP with roll and you can make sure that you actually land a move at all. Once they respect your safejump and start blocking on wakeup, then you can start going for empty jump low/grab or airdashed highs. What 5DD okizeme describes is that during the opponent's wakeup, Tomoe's 5DD with its dozens of active frames will be hitting them forcing them to block on wakeup allowing you to go for high/low mixups.
+	As mentioned before, Chie doesn't really get much damage from these hits, but she does get meter and corner push. Once you get a hit and the opponent is at about half HP, you should probably have over 50 meter, and you can use Chie's ridiculous metered damage potential to kill them before they can enter awakening (Minimum of ~4k off of any hit with a proper confirm essentially).
+	What this implies is that Chie should just about never use meter in a combo except to kill or cut significantly into awakening health. The only other times to use meter should be for Agenyastra in neutral to help you get in, or in a blockstring when you're desperate to get a hit or reset pressure (Rampage > OMC > j.B, j.236AB whiff > 236B instant Skull Cracker overhead, 236AB/214AB to reset pressure). Generally, the only time you should use meter in a blockstring for a tricky hit is when that conversion will kill them.
+	Ultimately Chie's goal is to end each combo in such a way that provides the best chance of starting another combo. The most basic way is to end combos with sweep, 214A, or 236B and go into safejump/5DD oki high/low mixups. If you're having trouble opening your opponent up with these high/lows, you can move on to 2B AUB resets as described below.
+	The thing with Chie is that she doesn't get many opportunities to open up her opponent for big damage, so it's vital that you don't drop her damaging combos and combo paths. Thankfully, her combo paths are fairly simple and once you get a few down, the rest follow naturally.
+	*I should talk about Chie's strengths compared to other characters*
+
+Neutral:
+	When running at your opponent, they will generally do one of two things: 1) Hit you with a move that well outranges your 5A and probably many other moves you would've done or 2) jump away from you. If the opponent tends to do the first one, you can beat that by jumping over the move, or maybe try 5C or even 214C/D/CD or 214A/B/AB.
+	If they tend to do the second one, run up to about where you would press 5A if they stood still, and 2B instead AKA just overshoot your 2B as most of the time they'll jump back.
+	If you're approaching from the air, sometimes they'll block and let you get the mixup and pressure, but most sensible people will just 2B you for free. Against some 2Bs you can handle this by airdashing past at the vertical height that j.C will barely hit them, or you can airturn backdash j.B crossup and hope for the best. It might work, I haven't tried too much. You can also try super jumping or using Persona moves to vary your aerial momentum.
+	Don't just jump and airdash at your opponent. That is the freest 2B AA you can give them.
+	2A is a good poke. 5C is a decent poke. j.2B might be okay. 214AB is good if they aren't expecting it and if they block it, you're still plus.
+	One of Chie's most solid ways of getting in might actually be to block/get hit and guess correctly when mashing or DPing. Very rarely will an opponent use a move that can be rolled through and punished.
+	j.B+D has 7 frames of invul so you might be able to catch someone by surprise with it. Generally a terrible idea but still an option, like when katana men are flying at you swinging swords
+	Guard Cancel Attack 6A+B is pretty hard to use and will sometimes just clash with the opponent and get you hit. You can OMB it for a combo after the 6A+B. If the move clashed then you'll likely get a OMB starter which would be able to kill.
+	Chie actually gets slightly more horizontal distance after running from a forward double jump than from a forward air dash. This happens because once you jump you maintain some of your running momentum which gets added onto the forward movement of the double jump making the double jump move forward faster than normal. This is also why you can't run forward, jump forward, and then double jump back (the backward jump neutralizes momentum and you essentially end up with a neutral double jump) and neutral jumps after running forward will still go forward.
+	For air-to-air situations, preemptive j.B is often better than j.C because j.C stalls momentum whereas j.B maintains it. Will beat a lot of air-to-airs that come later that would be beating your j.A
+	TODO: Something to look into: Find strings that will cause grab to whiff to punish failed grab techs with 5B. For people looking out for grabs it might work.
+
+	236CD/j.236CD covers a pretty good angle and allows you to act again in midair and you can use it again for up to 7 dragon kicks in midair. No practical application of the 7 midair dragon kick neutral identified yet. Maybe to time out a shock, or after AoA~C to stall? In the corner you can 236CD in the same direction every time to confuse the opponent or something
+	While Agneyastra is useful for getting in, be careful using it against characters with fast full screen options like Narukami's Maziodyne or Akihiko's Maziodyne as they can just use it for an easy punish.
+
+Blocking:
+	Get used to this because Chie will be doing it a lot.
+	5A is Chie's fastest mash at 5 frames
+	2A and sweep mash, while slower, can low profile some moves
+	Fuzzy Jumping gets you through a lot of blockstrings. 171 is safer and better in lower level gameplay as opponents rarely try to tick throw.
+	Chie's DP can be challenging to call out and punish by some opponents because of how fast it recovers.
+	Some strings end up being annoyingly DP safe against Chie anyway because of how small her DP's active window is.
+	Any string too slow for DP should allow mash/roll out with some exceptions. Shoutouts to Minazuki's 4A mash, etc.
+	Chie's DP is hard to use effectively and is very risky due to the Fatal Counter status, but is sometimes one of Chie's best options of getting out of pressure. Use it sparingly and intelligently and you should be fine.
+	Reminder that Chie's DP can be super canceled on block into C/SB Agneyastra to keep pressure on an opponent, although most of the time you'll start Agneyastra in their 2B range. It can be super canceled on the first hit into A Power Charge to reestablish dominance; using 5A afterwards is tight, so it can actually be used to counter safe jumps and reestablish pressure for 50 meter after knockdown.
+		Pretty easy to confirm off hit too:
+			Side Swap/Cornered ver: B+D > 236236A > 5AA > 5C > 2C > dc > 5B > 5C > 236B~236B (Reverse input because cross under) > 2A+B (B Skull Cracker doesn't end in knockdown) [2706/-45%]
+			No Side Swap ver: B+D > 236236A > 5C > 2C > dc > 5B > 5C > j.C > 236B~236B [2751/-45%]
+		If they space well, the first hit of DP will whiff so this isn't guaranteed.
+		First hit DP leaves about 10 frames of blockstun after A Power Charge super cancel, so things like 5A, 2A, 5B, 2B, and 2A+B will be tight, and grabbing too fast will miss
+	
+	214CD is a usable mash as it has armor on frames 9-32. Fatal Starter and on point blank leads to the swaggest double side swap combo I've seen on Chie
+		214CD (CH FC) > dc |> 5C > dc (cross under so input as 44 instead of 66) > 5B > 5C > 236B~236B > microdash 5C > 2C > dash cancel > 5B > 5C > 2A+B [3790/-25%]
+		This isn't entirely just for swag as when you're in the corner, this combo will only side swap once and get your opponent into the corner instead, and can go for the AoA~D ender instead.
+		I'm curious about option selecting throws with 214CD because if they do throw, you can tech it (depending on the timing of the 214CD, sometimes you'll get thrown out of startup) and if they don't, they're probably baiting a throw tech and will punish immediately after, which 214CD will likely armor through. It loses to aerials. It would lose to roll, but you'd have to be crazy to bait a throw tech with a roll. There are a lot of frame intricacies here because you want to tech the throw and not get grabbed out of 214CD startup, but you don't want to use it too late or else the armor frames won't be active. TODO: Certainly requires testing and exploration
+	236236A is pretty good to mash out of blockstun and on wakeup. Especially with 100 meter because if you respond correctly to your opponent you get a more damaging punish because of the initial power charge. Much safer than raw God's Hand. EDIT: Apparently A Power Charge isn't invul on frame 1? So it loses to meaties, I guess. There's a reason defensive Chain Shift is a thing in UNIEL. Basic things:
+		If opponent is above you, jump air grab is often better than 2B
+		If opponent is attacking you with a move that will come out in fewer than 9 frames, DP it. Note that a super aware opponent will jump cancel/OMC the move and punish your DP
+		If opponent is attacking you with a move that will come out in more than 5 frames, 5A it
+		If the opponent is attacking you with a move that will come out in more than 3 frames, a roll is possible although easily punished
+		If the opponent is trying to grab you sometimes the grab will whiff and you can just hit them.
+		You might be able to Gold Burst out of this too if you're in a dangerous situation.
+		BIG EDIT REGARDING A POWER CHARGE: After extensive lab testing, I've established that 236236A does not have nearly as much invul as is estimated on the Dustloop wiki. 5AA > 5C has a 3 frame gap as an opponent can roll through, but will not be airborne when trying to jump out, Chie IB 5A (5f) will trade, but Yukari IB 5A (6f) will lose. Chie cannot A Power Charge through 5AA > 5C, but can easily B Power Charge. On IB, Chie can A Power Charge, but will get hit by the tail end of 5C for a counter hit. 5AA > 236A has a 2 frame gap and Chie cannot A Power Charge through that on IB. I'm actually very tempted to say A Power Charge has no invul at all. From some rudimentary testing I can't invul through moves with 1 active frame although my testing is not necessarily frame perfect. In any case, having 5 frames of startup and less than 3 (likely 0, useless anyway because most moves have at least 2 active frames) frames of invul means it's not nearly as good as I thought it was.
+		At this point I might prefer mashing 236236B instead of 236236A for the power charge and chance to invul through a move and whiff punish for big damage, despite the 12 frames of recovery, like a metered version of Sho's 5D
+		After more testing, I've found that A Power Charge can sometimes be throw invul, but I can never seem to get it to be any other kind of invul. The throw I invul'd through was Narukami's 236B/SB. I could never invul through normal throw.
+	
+Midscreen Pressure:	
+	5AA is -2 on block but most people would probably expect you to continue with other moves in a blockstring there. You can reset pressure with 66 5A or 66 C+D
+	Putting a small delay between 5A and 5AA can catch people. This is true for most gattling chains. 5AA |> 5B > 2DD will catch mashing with the 5B (CH) > 2DD combo and if they respect the 5AA |> 5B, chances are they'll respect the 5B > 2DD so you end up +62 or whatever
+	5AA > 5C is not tight and can catch people. Note that 5AA > 5B > 5C is tight.
+	Amusingly, 5AA > 5AAA isn't tight either, so you can catch mashes with that and it leads into the rest of the autocombo path easier(5AAA > 66 5A > etc)
+	5B > 5B is probably one of the least real things ever, but if it works congrats you got a 5B starter
+	5AA is actually one of my favorite moves for Chie. It can be used to frame trap after 5A with a small delay, frame traps with a 5C follow up, can lead into grab, is jump cancelable, can be followed up with a crossup by jumping over the opponent, can gattle into a low (sweep) and a high (AoA), and gives plenty of time to confirm a 5A hit as either a ground hit or an air hit.
+	5AA > 5B > 7/8 > air turn > 66 (air turn backdash) > j.B (can also turn this into 2A/grab if they respect it enough. I don't actually know how safe this is because I'm too slow and sometimes get 2B'd)
+	You don't have to get to fancy with this if they're respecting you. Just jump forward after 5A/5AA/5B/2B/2A+B, air turn, and j.B or j.A
+		Sometimes it can be hard to convert off of this depending on spacing/timing, but on non-CH you can follow up with a grab after a slight delay. Chances are they aren't expecting it because they expect you to keep hitting them, as long as you mix it up somewhat.
+	You can't cross up with just a jump and airturn with j.B after 5C, but you can IAD j.C for a crossup (and no followup besides OMB on non-CH. CH leads to 5A.) or jump up and instant air backdash j.B.
+	Hard to get followups on non-CH hits. One thing you can do after a non-CH hit is grab, though.
+	Remember the game has 2 frames or something of crossup protection, so you gotta time it carefully for a crossup hit.
+	Remember that the timings and spacings will change depending on if the opponent is stand blocking or crouch blocking. A stand blocking opponent will walk back slightly while you're crossing up and a crouch blocking opponent won't. In the following block string, I'll mark with an (X) where you can jump forward air turn cross up with j.B on a stand blocking opponent
+	5A (fairly close range) (X) > 5AA (X) > 5B (X) > 2B (X) > 2A+B (X) although the sweep will hit a stand blocking opponent, obviously
+	5AA > 5C > IAD j.C will cross up a standing opponent but whiff a crouching opponent. A far hit with 5A on a standing opponent will cause the opponent to be protected by crossup protection when you try the j.C unless you delay the j.C slightly
+	Against a crouching opponent, the first string still has all the same opportunities, but the timings are slightly different after 5A and 5AA
+	The second string, you'll need to do 5AA > 5B > 5C in order to cross them up unless you get a far hit on the 5A.
+	Pressure > IAD j.C |> OMB will cross up and lead to a full OMB combo. The j.C will hit as cross up and the OMB will recrossup again so this would have to be blocked by backwards for pressure, forwards for IAD j.C, and backwards again for OMB. Slight delay before OMB
+	Pressure > IAD j.2D might catch people by surprise because Tomoe will go back and hit them
+	Pressure > 2DD/5DD if they're respecting you > YOU'RE +62 ON 2DD GO DO WHATEVER YOU WANT
+	Pressure > 5B/2B > 44 > 66 5C/2B (Input during backdash for immediate sliding input)
+		Funny because these can go back into 5B/2B and repeat the process
+		On that note, sliding 2B can catch a lot of people off guard because Chie slides across the screen equivalent to the distance of her air backdash
+	I got instant j.B overhead somehow... forgot to record. It was against Narukami though
+		After some testing, Chie's instant j.B will hit against some standing opponents, and due to funny mechanics while blocking, if the opponent is blocking low while standing (I imagine switching to low after being in high blockstun) they'll get hit by the j.B as an overhead. I don't know what you can get besides j.C though
+		On CH you can get j.B (CH) |> j.2B > 2B > 236A~236A > 5B > 5C > 2C > dc > 5C > 236B~236B in the corner or j.B (CH) |> j.A > j.A > 5AA > 5C > 2B > 5B > 2A+B. You can't get anything on non-CH
+		Characters instant j.B will hit against:
+			Margaret
+			Narukami
+			Yosuke (finnicky, not really worth)
+		Doesn't hit:
+			Sho
+			Naoto
+			Teddie
+			Yukiko
+			Chie
+			Kanji
+			Minazuki
+			Marie
+			Ken
+			Yukari
+			Labrys
+			Mitsuru
+			Aigis
+			Adachi
+			Elizabeth
+			Akihiko
+			Shadow Labrys
+			Junpei
+			Rise
+		tl;dr Holy shit why is Narukami so tall. This is probably one of the dumbest things I've ever labbed
+	On a crouching opponent, run hop airturn j.B crosses them up.
+	(... > 2B > 5B / 5AA > 5B) > C+D > 5B Your grab whiffs trying to bait a whiffed grab tech to punish with 5B
+	... > 5C > j.C > j.B leaves a ~11 (8? I think j.C is +0 midair) frame gap and safejumps any reversal slower than that. Very powerful in the corner. Beats everything Yukiko can do in the corner, for example. I'm not even kidding, I've tried 5A, 2A, 2B, 2A+B, B+D, Supers, all either get safejumped or yield counterhit; loses to like frame perfect DP/IB DP; IB mash either whiffs or still gets CH. Can roll out
+		Neutral jumping instead of forward jumping in the corner means you can catch rolls with 2A or grab, but leaves you a bit more susceptible to some 2Bs (Neutral jumping loses to Ken's 2B but beats his roll, jumping forward beats 2B but loses to roll. Both options safejump DP because get fucked Ken nobody loves you)
+		Loses to many 2Bs and fast 5A mashes
+		Looser midscreen than in corner?
+		When jumping forward in the corner, opponent can walk forward to get out, but that's pretty gutsy and they probably won't try that
+		A lot of the time when I say "hits for some reason" I think it's probably an issue with my recording, because it's not CH and it looks like Chie lands and has plenty of time to block, but still gets hit
+		Loses to:
+			Margaret:
+				IB 5A
+				IB 2B barely tags
+				236236A/AB
+				214214AB
+			Sho:
+				IB 5A
+				2B
+				5B whiffs but gets him out of corner
+				DP
+				214AB
+				214A/236A/AB whiff but get him out
+				236CD gets him out of
+				236236A/AB
+				214214B (A/AB will actually whiff)
+			Naoto: (j.C > j.C seems to beat 5A/2A/2B)
+				5A
+				2A causes both to whiff
+				2A+B
+				2B
+				DP
+				2C causes Chie to miss Naoto but hit Persona and punish recovery
+				214B invuls through, but can be punished while stancing, 214AB rolls out and is safe
+				236A
+				236236B (Others don't have enough invul)
+				214214A/B/AB>C/D
+			Teddie:
+				5A
+				2B
+				DP
+				IB 236A (non-IB trades)
+				236C/CD if TVs are out
+				22A/B/AB causes whiff although I think still disadvantageous
+				236236D (C whiffs, CD too slow)
+				(214214A/B/AB actually move Teddie too far forward to hit)
+				214214C/D/CD
+			Yukiko:
+				5A causes both to whiff, Chie advantageous
+				DP (Pretty tight, though)
+			Narukami:
+				5A
+				2B
+				DP
+				214C/D/CD (CD on IB only)
+				214A/B causes both to whiff
+				236A
+				214A/B/AB causes both to whiff
+				236236CD hits for some reason
+				214214C/CD
+			Yosuke:
+				5A
+				2B
+				DP
+				236A causes both to whiff, B on IB
+				236236C/CD hits for some reason
+				214214C/CD during Sukukaja
+			Chie:
+				5A
+				2A cause both to whiff
+				2A+B causes both to whiff
+				5B
+				2B causes both to whiff
+				IB 236A/AB causes both to whiff
+				236236C/CD hits for some reason
+			Kanji:
+				5A
+				(2B too slow)
+				Sweep causes both to whiff
+				DP
+				214D but can be jumped out of
+				214CD causes both to whiff
+				236236A/B/AB
+				21421D/CD (C with delay)
+			Minazuki:
+				IB 5A
+				5B causes both to whiff
+				2B
+				DP
+				214A/B/AB causes both to whiff
+				236236C hits for some reason
+				236236D/CD
+				214214B (A/AB cause both to whiff)
+				214214C/D/CD
+			Marie:
+				IB 5B trades
+				2B
+				IB 214AB causes both to whiff
+				DP, but it's kinda tight
+				IB 236A trades
+				236236A/AB
+				236236C/CD
+			Ken:
+				IB 5A (non-IB trades)
+				(2B gets CH)
+				IB DP, but tight
+				236236A/AB (B might work on IB)
+				214214A/AB
+				IB B+D
+			
+	
+	Midscreen B Skull Cracker starter can lead to full combo with Power Charge: B Skull Cracker > A Power Charge > 66 |> 5C > 2C > dc > 5B > 5C > j.C > j.236B~236B [2765/-50%]
+		The power charge would make it safe anyway as B Skull Cracker is -7 on block although people generally don't seem to punish it anyway????
+	Pressure > 236A > OMC > j.B/2A/Grab mixup
+	214B/AB > OMC > j.B/2A mixup (214AB can also grab with slight delay and microdash) (Timings are weird but they probably won't expect it because of how dumb it looks)
+	AoA has 26 frames of startup. If your opponent is only looking for grabs you can sneak one in occasionally.
+	Consider Pressure > Rampage > Skull Cracker (1) > OMC > AoA?
+	214CD has armor which leads to interesting pressure
+		interesting is the only word I can think of because it's -6 on block (-3 on dash cancel) 
+		On non-CH only leads to 2B AUB reset on bad tech
+		On CH leads to full combo
+		214CD (CH) > 5C > 2C > 66 > 5B > 5C > j.C > j.236B~236B [3348/-23%]
+		214CD (CH) > 5C > IAD j.2B > 5C > 66 5B > 5C > 236B~236B > 5C > 2C > AoA~D [4418/-21%]
+	Pressure > 214C > dash cancel > DP
+		If they try to mash out of 214C > dash cancel, the DP catches them. If not, the fast recovery on DP allows you to restart pressure before they can react. Just don't do this often because if they predict this, DP has fatal recovery
+	236236CD > OMC > 2A "unblockable" Opponent can roll through, DP out, and do a bunch of things to disrespect it. They can also block it sometimes if it's not done perfectly (it's super hard though), but it is possible to make it a true unblockable high/low (tested against training mode dummy set to block everything)
+
+	Chains that maintain Tomoe's position:
+		5DD
+			> 5DD
+			> 5C
+			> 2C
+			> 2DD
+			> j.xD (Averages current position of Tomoe and Chie)
+			> j.C (Averages current position of Tomoe and Chie)
+			> 214C/D/CD
+			> 214214C/D/CD
+		2DD
+			> 5C
+			> 2C
+			> j.xD
+			> j.C (Averages current position of Tomoe and Chie)
+			> 214C/D/CD
+			> 214214C/D/CD
+		j.xD
+			> j.xD
+			> j.C (Averages current position of Tomoe and Chie)
+			> 5C
+			> 2C
+			> 5DD
+			> 2DD
+			> 214C/D/CD
+			> 214214C/D/CD
+		5C
+			> Nothing on whiff
+			> 5C on hit if OMC'd
+			> 2C on hit
+			> 5DD on hit
+			> 2DD on hit
+			> j.xD (Averages current position of Tomoe and Chie)
+			> j.C (Averages current position of Tomoe and Chie)
+			> 214C/D/CD (hit/block only)
+			> 214214C/D/CD (hit/block only)
+		2C
+			> 5C
+			> 5DD on hit
+			> 2DD on hit
+			> j.xD on hit if OMC'd
+			> 214C/D/CD (hit/block only)
+			> 214214C/D/CD (hit/block only)
+		j.C (Positioning is iffy often seems to inch back towards Chie)
+			> j.C
+			> 5C
+			> 2C
+			> j.xD
+			> 2DD
+	"Averages current position of Tomoe and Chie" is a very liberal definition of average. Looks like it just has a max distance away from Chie. I know j.C has a maximum distance from Chie, but I'm not completely sure about the properties of the j.D's. 5DD/2DD can be replaced with 5D/2D
+	The 214214C/D/CD might look dumb, but the meteors are based on Tomoe's position, not Chie's (C Meteors will go full screen if Tomoe is full screen away). Not much practical application. All this really means is when using Tomoe for corner pressure while Chie is midscreen, don't use 214214D because it will whiff.
+	Tomoe returns back to Chie after Black Spot and Agneyastra.
+
+Corner Pressure:
+	5AA > 5B > 5C > 7 > j.C > j.C > 5C > 2DD surprisingly good stagger pressure and surprisingly safe against many DPs
+		You can also just go back from 5C into more j.Cs
+		5C > j.C is actually tight if done frame perfectly (which is easy because of how actions get buffered). Leaving a small gap can be desirable and can easily be done by not being a tryhard when linking these two moves.
+		j.C > j.C leaves something like a 9-10 frame gap. Recovers fast enough to punish roll. Can be mashed out of pretty easily
+		j.C > 5C leaves a gap of like 1 more frame than j.C > j.C. Depends on timing of j.C's in jump, I guess. Easier to mash out of this part. Liz can punish with 5B with IB but can't with j.C > j.C.
+		Again, the tightness of j.C > j.C > 5C depends on how fast you press C during your jump and a looseness in one part will mean tightness in the other.
+		Best answer to this by opponent is mash a fast jab during the j.C > j.C > 5C to tag Tomoe and then hit Chie during lag. Hitting during j.C > j.C seems to be the most consistent as a delayed second j.C makes the j.C > 5C much tighter
+		If you decide to commit to the 2DD then they can roll out and punish pretty easily
+	Pressure > 5C > IAD back > j.C > 5C > 2DD Chie is safer against more things (like Adachi's DP) but pressure is much looser. An aware opponent can just poke Tomoe for free
+	Pressure > 5C > 2,7 (super jump back) > j.2D > 2D
+	Pressure > 5A or 5B > backdash > 214C If it catches a fuzzy jumped j.C+D then they're dead. 214C FC AA is 6.5k with no prior meter in the corner and literally over 9000 with 150 meter
+	Pressure > hop > any aerial > j.236AB whiff > 236B
+	5AA > 5B > Instant airturn backdash j.B won't cross up when opponent's in corner, but 5AA > Instant airturn backdash j.B will
+	Corner Pressure > 2D > Grab They might be expecting 2DD so they might not expect getting grabbed so early
+	
+	5AAA > j.236AB between second and third hit of 5AAA > 236B/2A mixup (can't convert off of midscreen 236B)
+		I should probably talk about Instant Skull Cracker a bit. Any time you're in the air and can use a Rampage, you can go for an Instant Skull Cracker overhead. Instant may not be the correct word here because you still have to get airborne to set it up, so it's probably better to say it's an unreactable Skull Cracker, as the opponent cannot react to the Skull Cracker/2A mixup on landing.
+		The input is j.236AB near the ground > B. The SB Rampage gets canceled upon landing but still leaves you in a Skull Cracker-able state. Moreover, the 236 input gets saved so you can just press B instead of 236B. Maybe inputting 6B instead of 5B on landing might help? I don't know...
+		This input saving, however, can lead to some difficulties in execution. In some instances you'll lose the 236 saved motion and 5B will come out instead. I don't know the specifics, but I assume it's probably timing based. Getting a good rhythm with some of the Instant Skull Cracker setups (5AAA > j.236AB > ~236B, hop j.B > j.236AB > ~236B, safe jump j.B/2B > j.236AB > ~236B are the main setups) will make it a bit more consistent
+		Inputting 236B instead of just B for the Skull Cracker will never cause 5B to come out, but sometimes it'll cause a Power Charge due to the saved 236 and the current 236B. Sometimes it'll be land > B Power Charge and sometimes it'll be land > ~236B(1) > B Power Charge. I don't really know why, though...
+		One way to prevent this is to only do the Instant Skull Cracker setups with < 75 meter to ensure you never have enough meter to Power Charge, but this is a pretty impractical solution.
+		Another possibility is to use A Skull Cracker instead. A Skull Cracker comes out faster and yields similar damage to B Skull Cracker in the corner, although I'm not completely certain as to what degree. Another benefit is that if you accidentally get A Power Charge, it's practically unpunishable, might potentially let you react to if they pressed buttons (I'm not actually sure), and maybe more, I don't know. I've never really tested instant A Skull Cracker before.
+	236B and 236AB and 214AB and 214D are plus on block
+	236B will whiff on midscreen crouching opponents and isn't particularly safe at any point of pressure. There's no gap between 236B > any rampage.
+	236B is also funny in pressure because if they're trying to jump/fuzzy jump out, they'll get hit mid 236B which leads to a decent conversion (B Skull Cracker path in corner)
+	236A > delay 236B/2A/grab mixup. Timing to get B Skull Cracker after A Rampage is kinda weird. You have more time to input than A Skull Cracker but of course you can always get a B Rampage if you delay it too much. B Rampage is plus on block at least. The delay is to make the timing close to 2A timing. Disrespectable, but scary to do so. 236A~236A has like a 1 frame gap: They can only roll out by IBing the A Rampage and will be grounded on IB jump.
+	2A+B > 214AB is a great way to react to if sweep hit and is +3 to reset pressure if it didn't. If sweep was blocked, 214AB easily reacted to and disrespected.
+	Only use I've found for 214D in pressure is 214D > C+D although obviously it's plus on block
+	5DD/2DD/Agneyastra > j.236AB instant skull cracker will catch guard roll out as 214AB
+		Only leads to
+		214AB(CH) > 214C > 214214CD > 236236D [3718/-150%]
+		I've only seen this, never gotten it to work so I'm not 100% sure of the specifics.
+
+Midscreen Combo/Combo Endings:
+	Midscreen combo > 236B~236B > 214B (whiff) > C+D If they see Chie flying at them they may be thinking about blocking and not teching the grab. It's the same concept of whiffing like 2A on knockdown and grabbing when they wake up, which I see a lot of Minazukis do. You also stay in their face. If they don't tech and get hit with the 214B you can follow up with 236D for a bit more damage or run up and try to get a 2B AUB reset when they airtech.
+		This is the easiest thing for your opponent to understand. 214B > 5A gives them a 3 frame window (They can roll out but things that take 4 frames like Liz A Mind Charge don't work) meaning the situation leaves you +2 and in their face free to do whatever. Most characters only have the options of blocking, DPing, and teching grabs. They can't jump because of jump startup and they can't backdash (probably) because you can't backdash for a few frames after waking up
+		In some longer combos the 236B~236B will allow them to air tech in which case you have no advantage at all and even Chie's 5C (12 frame startup) will hit
+			1700 is about max proration in combo for 236B~236B to end grounded.	1800 proration leads to air tech
+		Consider 214A instead and react/punish to what they do?
+	I don't know how to handle late ground tech. With a short combo you can extend with 2A > 2B > j.A > j.236B~236B
+	If they late tech and get hit by 5DD/2DD I guess you can try to go for 2B AUB/j.C+D
+	Meaty 5A and run forward > jump forward > air backdash/run forward > backdash are all you need to get to Yellow Card. The latter covers many wake up DPs, wake up roll, and wake up grab pretty well.
+	2B AUB resets can get you halfway through Yellow Card as well
+	Fuzzy Jumping everyone's strings will get you to Orange
+	5AA > 5C > 2B > 5B > 2A+B > 214A > 214C > 66 > 2B/j.C+D cool resets
+	5AAA |> 2B = AUB reset on neutral tech, up tech with dumber timing, back tech if 2B input as 66 2B, forward tech with the added bonus of crossing them up for no particular reason. No tech makes 5AAA > 66 5A easier.
+	... > 236B~236B > 5C > dc > j.BB > j.A > j.A > 2B Crossup
+		Not AUB due to block stun
+			AUB if 2B is delayed very slightly, but timing is precise because if they land, it's obviously not AUB anymore
+		Works reliably on away tech only
+			Sometimes works on up tech, but rarely
+		Also works with j.2B > j.BB > 2B, which can be input as 2B x 4
+		Also can catch an attempted jump out or some attempted backdashes (which will come out as forward dash and thus no invul)
+	... > 236B~236B > 5C > sjc IAD > j.BB > j.A > 2B Crossup
+		Sometimes AUB
+		You don't need all the aerials - Most of the time I just get 1 j.A max, and often 0
+		Works on up tech only
+	Besides the obvious safejumps from delay jump after sweep and after 214A, you can get a safejump from sweep > neutral superjump > airturn > backdash j.B
+		You can sometimes clash with reversals from this so watch out
+		Delaying the airdash can make their reversal go the wrong way, but is not very tight so they can roll out easily
+		Superjump back will stay on the same side most of the time.
+			It'll only cross up on a combo of length 5AA > 2A+B or shorter, or something like that?
+			The biggest value from this will probably be doing 5AA > 2A+B once or twice and then never again to make them think you'll cross them up
+			I'm fairly certain no one else knows about this tech and how the crossups work, as I've never seen a Chie superjump after sweep ever.
+	Safejump after ~236B ending with delay jump forward/delay airdash forward. Alternative option is microdash 5DD
+		Jump timing for airdash is about right when they hit the ground. Jump timing for jump forward is immediately run forward and jump when they hit the ground.
+	On a midscreen combo ending in D God's Hand (ex: ... > 236B~236B > 236236D), you can just run forward > jump forward > air turn > j.B for a crossup
+		On C God's Hand ender (5AA > 5C > 2B > 5B > 2A+B > 236236C) you can neutral jump > airturn > air backdash > j.B for a crossup
+	TODO: Just make a quick list of the hardest parts of combos.
+	... > OMB > (236236B) > 4 > 5C > 2C > (236236A) > 214214D > 236(236)D (Gets about 1K damage per resource)
+		Burst Safe (mostly). Very hard to burst as you need to burst right before the 5C while pretty close to the ground, and only on certain spacings, like C+D > OMB. 5B (CH) > 2DD > j.BB > 5C > 214C > OMB > ... looks to be completely safe for [7950/-132%/Burst)
+		I think this path is only worth considering in Awakening with Agneyastra access. Priority of meter usage should be 214214D > 236236B > 236236A > 236236D. God's Hand ending is easier than mid combo A Power Charge, but yields ~800 less damage
+		In general, any far 5C > 2C can end on the same path?
+
+Corner Combo/Combo Endings:
+	... > 236B~236B > 5C > j.A > j.8D > 2B AUB reset
+		Loses to neutral tech or no tech or double jump/airdash or move that manipulates vertical position significantly. j.2D keeps them blocking, but no AUB reset. Up tech has slightly different timing
+	... > 236B~236B > 5C > j.Ax3 > j.8D > j.BB > j.A > j.A > 2B AUB reset is a stronger variation
+	... > 236B~236B > 214B > 2B AUB reset 
+		Loses to neutral tech, no tech, double jump/airdash, or move that manipulates vertical position significantly. Toward tech is a weird pickup, backing up slightly after 214B covers towards tech better
+	You can also do ... > 236B~236B	 > 214B > j.A > j.8D > 2B or jump up and airgrab after the 214B
+		You can also airgrab after the j.A but what you do after depends on their tech. double jump beats all directional techs, no jump beats neutral tech. Airdash also beats back tech
+		You can also jump airgrab after the j.8D for this setup.
+		After any j.D path you can turn this into AoA, 2A, slight delay grab, 2DD to catch grounded jump/free mixup
+		After the j.8B you can also do j.BB > j.A > j.A > 2B for an AUB reset
+			They can jump out of this between the j.A and the 2B
+	Another fun one is 236B~236B > 5A/5C > 2DD > j.BB > j.A > j.A > 2B
+		If they up tech, 5A won't work
+		If they away tech, all is good. This is the hardest to jump out of because sometimes the 2B will still clip them
+		If they towards tech, you have to neutral jump (not forward jump) for 5A
+		If they neutral tech, 2DD will catch them on the ground sometimes
+	For all of these, I have no idea what to do against no tech
+		In general, I have no idea what to do against no tech
+	TODO: Paths to investigate: Last hit of j.8D hits, many no tech options
+	You can also just jump/hop up and airgrab for both of these
+	Be warned that it's very hard to convert off of the j.8D actually hitting. Adding a few more j.A's before will give you more time and make the conversion easier.
+	The last hit of j.8D is not tight with the first hits, so some opponents will get hit by just the last hit. You can't combo this into 5A on reaction, you have to kinda predict that it'll hit.
+		Often times the reason they get hit by the last hit is because if they tech out of the corner, the j.8D pushes them back into the corner, and over you, meaning in the right corner they block the first hits of j.8D by holding left and the last hit by holding right.
+		Neutral jumping instead of jumping forward will keep them in the corner the whole time making it harder for them to get hit by the last hit of j.8D and thus make it easier for the AUB setup
+	... > 2C > 5DD/2DD will often catch people trying to shake out of ice for a reset. If they shake out successfully, they'll be left on the ground blocking, meaning you can go for protected high/low mixups. Often outspaces reversals.
+	In 5DD > 236B~236B > 5C > 2C > 5DD, if they don't break out of freeze, the combo will drop after the first hit of the second 5DD, either giving you a protected high/low mixup or resetting the loop again
+	AoA~D > dc > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B [3521/44%] will drop on 2A+B allowing you to go for a cheesy 2A+B/AoA reset here if they're not paying attention
+		Reminder that sweep starter can only really combo with meter usage
+		After the 2C, going for 5B > 2B > 236A~236A/B will reset on the Skull Cracker
+		In general, after 2C, can go for 5B > 2B > 236A~236A/B for reset
+		AoA~D > dc > 5C > 236B~236B > 5C > 2C > dc > 5AAA(2) > j.236AB(whiff)~236B
+			Combo will drop on 5AAA, but most people won't be expecting instant Skull Cracker followup at that point and will likely get hit by one of the hits
+			[3197/37%] before drop
+			2C > 5AAA(2) > j.236AB (whiff)~236B is a pretty cool option, but many times only the second hit of the Skull Cracker will hit and most people autopilot block low anyway. The above setup is the only one I found to work with both hits. If you're lucky, they'll react to the Skull Cracker and try to block high and get hit by the low, but unlikely. Maybe good as a meta-gimmick after resetting with other Skull Crackers elsewhere
+				In general, for these to work, I think the combo has to drop at one of the 5AAA hits
+			Another option is 2C > 5AAA(1) > OMC > j.B for a dumb overhead
+			AoA~D > 236B~236B > 5C > 2C > dc > 5AAA(2) > j.236AB(whiff)~236B drops one hit later than the above to make it a bit harder to react to
+		5B(CH) > AoA~D > dc > 5C > 236B~236B > 5C > 2C > dc > 5AAA(2) > j.236AB(whiff)~236B is the same deal as above [3507/39%]
+		300   + 1000+2000+600+ 450+600      + 400+100=5450 proration = want 4950 after 2C
+		5C (CH) > AoA~D > dc > 5C > 2C > dc > 5AAA(2) > j.236AB(whiff)~236B is a bit better because the 5AAA drops on the second hit, not on the first hit The first part is [3041/31%] and you get 3151 off of meterless Dragon Kick ending from B Skull Cracker starter, for at least 6000 damage total and net gain of ~6-9 meter
+			j.236AB(whiff)~236B > 236236B > 5C > 236B~236B > 236D > OMB |> 236D > 214214C > j.236D [6712/-125%] total = [9753/-119%] kills most characters.
+			TODO: Investigate 236B starters
+	2C > 5AAA > j.C+D Cool airgrab reset and meter. Only on low prorated freeze combos.
+	
+	... > 236A > 236B will reset on people not paying attention. Better conversions in corner as midscreen just leads to knockdown or 236D
+	Air blockstring (j.BB > j.A > j.A, j.A > j.BB > j.A. I think it has to end in j.A because j.B(B) provides too much hitstun for the AUB to work) > 2B AUB.
+	In a corner combo ending in Agneyastra, if the Dragon Kick won't kill, then you can do 214214C > 5DD (Combo drops here) > j.BB > j.A > j.A > 2B AUB instead
+	
+	If no tech on 236B~236B > 5DD, can go into j.BB > dj.BB > j.8D AUB setup.
+		If they tech out of the corner, there are two things you can do
+			Neutral jumping for the j.BB's instead of jumping forward will keep them between you and the corner and ensure they don't get crossed up and hit by the last hit of j.8D accidentally
+			Jumping forward for the j.BB's will have them land on the other side of you putting you in the corner, but possibly crossing them up. Jumping forward after the j.8D as well amplifies this crossing up, but to hit with any aerials, it'll require an airturn pretty quickly.
+			The side swap only happens after certain 5DDs, namely 5AA > 5C > 236A~236A > 5B > 5C > j.C > j.236B~236B > 5DD corner
+	If they no tech on sweep, such as 5AA > 5C > 2B > 5B > 2A+B, you can do 5C > 2C > dc > 5C > 236B~236B, or do 5DD oki, but you have to commit to no safejump if you choose this
+		If they don't block, you can follow up with j.BB > j.8D > 5AA/5B > 5C > 236B~236B
+		j.236B~236B > 5C > 2C > Freeze Ender also works, but it's harder
+	... > 2C > AoA~D > IAD Back > 5DD for the 5DD oki
+		If they no tech, they'll get hit by 2 hits of 5DD before being able to air tech
+		From there, j.BB > j.A (> j.A) > 2B AUB setup I get more success off of one j.A
+	... > 2C > AoA~D (No FC ender) > IAD j.C+D or 2B. Hard to get 2B if they tech out of the corner. Everyone always techs after AoA. You can do jump back to bait it better because you normally jump backwards for AoA~D ender
+
+TL;DR List of Resets:
+	Some of these are more effective than others but they all will work against opponents not blocking well
+	Some of the less tight 2B resets can be replaced with j.C+D
+	Any:
+		... > 236A > ~236B (Only convertible midscreen with > 236236A besides the obvious 236236D and 236D followups. Corner gets full combo)
+		... > 236A > C+D
+		5AAA > 2B
+		Anything > 5A+B
+		AoA~C > j.BB > airdash > j.C+D
+	Corner:
+		... (ex: 236A~236A) > 214C > dash cancel > 2B AUB reset
+		... > 236B~236B > 5C > j.A x3 > j.8D > 2B
+		... > 236B~236B > 5C > j.A x3 > j.8D > j.BB > j.A x2 > 2B
+		... > 236B~236B > 214B > 2B
+		... > 236B~236B > 214B > j.A x3 > j.8D > 2B
+		... > 236B~236B > 214B > j.A x3 > j.8D > j.BB > j.A x2 > 2B
+		... > 236B~236B > 5C > 2DD > j.BB > j.A x2 > 2B
+		... (ex: 236A~236A) > 214C > dash cancel > sj.BB > j.A > j.A > 2B Only works against back tech
+	
+Other:
+	Certain DPs result in the opponent being airborne during their counterhit state. This can be anything from Yukiko and Marie's DP to not wanting to gamble with Mitsuru's super cancels on landing. In the corner 5B (CH) > 2DD will sometimes work, you just have to go into j.BB > j.236B. An easier combo is 5B (CH) > 5C > j.C > j.236B~236B > 66 > 5C > 2C > Same followups as the main 5B (CH) > 2DD path. The path ending in AoA~D is [4018/38%] for reference. Note that you can't just go for the 214C FC path on Yukiko because she's projectile invul, it doesn't get Marie airborne enough for the 2A+B, it's not fast enough to punish a blocked Mitsuru DP, it is pretty tight on blocked Aigis DP because of how low to the ground she is, and can't punish Elizabeth's Randomizer for the same reason. Not to mention this path works midscreen whereas the 214C FC path doesn't. Also of note is that if Marie's DP blocked midscreen (neither you nor she is in the corner) it's hard to say if you'll get a ground hit 5B or an air hit 5B. Also she can cancel into super at any point (I think Aigis, Narukami, and Sho/Minazuki can too?). Also if you don't trust getting the 214C off on Ken's DP because you're uncomfortable with spacing or timing (on block, backdash twice or air backdash once, and wait a second), or the fact that Koromaru can take the 2A+B and make you jump cancel too early, and you don't have the resources to punish with IK. Fuck trying to get an air confirm off of Ken's DP. Also casual reminder that Sho/Minazuki air DP does not leave them in CH state, so you can only get a crouching confirm. Ota-Mega's post in the combo thread shows a few crouching confirms, but there's not much big damage you can get off of it. Practice S. Chie if you have trouble dealing with these air DPs, I guess, as S. Chie gets much more off of a 5B non CH confirm. I forgot to mention Chie's DP because I forgot it even existed. In awakening she can cancel into meteors, otherwise she can only super cancel on landing. It's actually surprisingly hard to reach Chie before she lands for a full punish, and it side swaps, so she'll get out of the corner if she was cornered. If you react quick enough you can just backdash once after blocking the first hit of DP and get the 5B CH air confirm.
+	Other thing to note: It's really hard to safejump Kanji's DP. Using j.C is possible but the timing is hard (and very different from j.B/j.2B safejump timings) and j.C stalls your aerial momentum. Also, j.C isn't an overhead so you don't get to kill scrubs as easily. If it's possible to safejump Yosuke's DP, it must be frame perfect or something because the trip comes out in 1 frame. EDIT: I'VE SAFEJUMPED YOSUKE'S DP BEFORE CONFIRMED FOR POSSIBLE JUST LIKELY FRAME PERFECT. Safejumping Adachi's DP is annoying because you have to be inputting 4 instead of 1 (Why is his DP an overhead again?). At least it comes out in a moderately reactable 23 frames. Consider meaty 4A for Adachi?

@@ -1,0 +1,65 @@
+﻿Optimal(?) 5AA > 5C non-CH damage paths
+Default knockdown path is:
+5AA > 5C > 2B > 5B > 2A+B [1450/12%]
+	> 214A [1680/13%] (Depending on your preference of knockdown)
+midscreen and
+5AA > 5C > 236A~236A > 5B > 5C > j.C > j.236B~236B [2343/24%]
+	> 2A+B [2487/26%] (Depending on your preference of knockdown)
+
+Replacing 5C > 236B~236B with 5B > 5C > j.C > j.236B~236B adds ~100 damage for a bit less consistency. Sometimes it actually lowers damage, but generally only on Agneyastra routes(?)
+Most 236D > 214214C > j.236D endings are unsafe and end with the opponent able to punish the j.236D ending lag
+To get 5AA > 5C > 2A+B, you either have to start in the corner, or dash before the initial 5A, or else the 2A+B won't reach
+	
+Midscreen:
+	Burst:
+		0 Meter:
+			5AA > 5C > 2B > 5B > 2A+B > 214C > OMB > 5C > 2C > dc > 5C > 236B~236B > 236D [3982/18%]
+			5AA > 5C > 2A+B > 214C > OMB > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 236C [4267/15%]
+		50 Meter:
+			5AA > 5C > 2A+B > 214C > OMB > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [5255/-35%]
+			5AA > 5C > 2A+B > 214C > OMB > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [5374/-36%] (Awakening Only)
+		100 Meter:
+			5AA > 5C > 2A+B > 214C > OMB > 236236B > 66 > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [6396/-88%]
+			5AA > 5C > 2A+B > 214C > OMB > 236236B > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [6838/-88%] (Awakening Only)
+		150 Meter:
+			5AA > 5C > 2A+B > 214C > OMB > 236236B > 5C > 2C > dc > 5C > 236B~236B > 236236A > 236D > 214214C [8934/-138%]
+			(5A > OMB > etc. leads to 9035 but confirming 5A with OMB is weird)
+	No Burst:
+		0 Meter:
+			5AA > 5C > 2B > 5B > 2A+B > 214A > 236C [2304/22%]
+		50 Meter:
+			5AA > 5C > 2B > 5B > 2A+B > 214C > 236236A > 66 > 5C > 2C > dc > 5C > 236B~236B > 236D [4063/-35%]
+		100 Meter:
+			5AA > 5C > 2B > 5B > 2A+B > 214C > 236236A > 66 > 5C > 2C > dc > 5C > 236B~236B > 214C > 236236D [5116/-85%]
+			5AA > 5C > 2A+B > 214C > 236236A > 66 > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [5653/-88%] (Awakening Only)
+		150 Meter:
+			5AA > 5C > 2A+B > 214C > 236236A > 66 > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > 236236C [7040/-138%] (If you accidentally do 5AA > 5C > 2B > 5B > 2A+B, you get ~100 less damage and the God's Hand is a bit less consistent. Delaying the Dragon Kick makes it a bit easier)
+Corner:
+	Burst:
+		0 Meter:
+			5AA > 5C > 2A+B > 214C > OMB > 5C > 236B~236B > 5C > 2C > AoA~D > 236D [4239/16%]
+			I want 4.5k
+		50 Meter:
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 236D > OMB > 214B > 236D [5659/-38%]
+			I want 6k
+		100 Meter:
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 236D > OMB > 214B > 214D > 236236D [7113/-88%]
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 236D > OMB > 236D > 214214C > j.236D [7433/-88%] (Awakening Only)(Same note as below)
+			I want 8k
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 236236A > 236D > OMB > 214B > 236D [7579/-88%]
+		150 Meter:
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 236236A > 236D > OMB > 214D > 236236D [9451/-138%] (Replacing 5B with 2B is a bit easier, but only yields 9390. If you accidentally muscle memory 5B > 5C > j.C, damage goes down to 9156)
+	No Burst:
+		0 Meter:
+			5AA > 5C > 236A~236A > 5B > 5C > j.C > j.236B~236B > 236D [3063/35%]
+		50 Meter:
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 236D [4291/-38%]
+			I want 4.5k
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 214B > 236D [4417/-38%]
+		100 Meter:
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 214B > 214D > 236236D [5752/-88%]
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 236D > 214214C > j.236D [6389/-88%] (Awakening Only)
+			I want 6k
+		150 Meter:
+			5AA > 5C > 2A+B > 214C > 236236B > 5B > 5C > jc. |>  j.236B~236B > 236236A > 236D > 214214C > j.236D [8797/-138%]
+			I want 8k

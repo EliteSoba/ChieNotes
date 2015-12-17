@@ -1,0 +1,588 @@
+﻿Optimal(?) 5B (CH) > 2DD damage paths
+Default knockdown path is:
+5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B [4462/40%] midscreen and
+5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D [4561/46%] corner/near corner
+
+Midscreen:
+	Burst:
+		0 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 236C [5590/21%]
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > 236D > OMB > 236D [5510/42%] (Near Corner)
+		50 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [6564/-29%]
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6669/-29%] (Near Corner)
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [6613/-30%] (Awakening Only)
+		100 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 236236B > (66: must dash to close distance) > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5C > 2A+B > 214A > 214C > 236236C [7733/-82%]
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 236236B > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [8253/-82%] (Awakening Only)
+		150 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 236236B > 5C > 2C > dc > 5C > 236B~236B > 236236A > 236D > 214214C > j.236D [10690/-132%]
+	No Burst:
+		0 Meter:
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 236C [4920/50%]
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D > 236D [4993/58%] (Near Corner)
+		50 Meter:
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [5918/-7%]
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6077/0%] (Near Corner)
+		100 Meter:
+			5B (CH) > 2DD > 236236A > 5B > 2B > 5C > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [6362/-93%]
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 236D > 214214C > 236236D [6958/-66%] (Awakening Only)
+		150 Meter:
+			5B (CH) > 2DD > 236236A > 5B > 2B > 5C > j.C > j.236B~236B > 236D > 214214C > 236236D [8080/-143%]
+Corner:
+	Burst:
+		0 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 236C [5590/21%]
+		50 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6669/-29%]
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 5C > 2C > dc > 5C > 236B~236B > 236D > 214214C > j.236D [6709/-29%] (Awakening Only)
+			*5B (CH) > 2DD > 236236B > 236B~236B > 236D > OMB > 214B > 236D [6888/-43%]
+		100 Meter:
+			5B (CH) > 2DD > j.BB > 5C > 214C > OMB > 236236B > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2B > 5B > 2A+B > 214A > 214C > 236236C [7733/-82%]
+			5B (CH) > 2DD > 236236B > 236B~236B > 236D > OMB > 236D > 214214C > j.236D [9052/-93%] (Awakening Only)
+			*5B (CH) > 2DD > 236236B > 236B~236B > 236236A > 236D > OMB > 214B > 236D [9648/-93%]
+		150 Meter:
+			5B (CH) > 2DD > 236236B > 236B~236B > 236236A > 236D > OMB > 214D > 236236D [10860/-143%]
+	No Burst:
+		0 Meter:
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D > 236D [4993/58%]
+		50 Meter:
+			5B (CH) > 2DD > j.BB > 5C > j.C > j.236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6077/0%] 
+		100 Meter:
+			5B (CH) > 2DD > 236236B > 236B~236B > 5C > 2C > AoA~D > 214D > 236236D [6858/-93%]
+			5B (CH) > 2DD > 236236B > 236B~236B > 5C > 2C > 214B > 236D > 214214C > 236D [7489/-93%] (Awakening Only)
+		150 Meter:
+			5B (CH) > 2DD > 236236B > 236B~236B > 236236A > 236D > 214214C > 236D [10504/-143%]
+
+=============END USEFUL INFORMATION=============
+
+5AAA > 66 > 5AA > 5C > 236B~236B [1756/29%] (Midscreen Only)(Most consistent autocombo path I've found)
+
+236236C > OMC > 2A > 2B > j.A > j.236B~236B [3760/-100%]
+	> 236236D [5104/-150%] (Double God's Hand just to rub it in)
+
+5B (CH) > 2DD > 66 > 5B > j.BB (> j.C if second 5B catches low to ground) > j.236B~236B
+	> 66 > 5C > 2C
+		> AoA air hit [3485/27%] (Corner Only)
+		> AoA~D [4264/42%] (Corner Only)
+			> 236236C [5462/-8%]
+		> 66 > 5B > 5C > 2B > 5B > 2A+B [4172/37%]
+			> 236236C [5372/-13%]
+			> 214A > 214C [4445/42%] (Opponent can air tech)
+				> 236236C [5645/-8%]
+	> 236236B > 5C > 2C [3395/-30%] (Corner Only)
+		> 236D [4745/-30%]
+			> OMB
+				> 214D > 236236D [7257/-80%]
+				> 236236A > 214D > 236236D [8933/-130%]
+			> 214214C [6617/-80%]
+				> j.236D [6889 /-80%]
+				> 236236D [8633/-130%]
+		> 236236A > 214D [4295/-80%]
+			> OMB > 214D > 236236D [8555/-130%]
+			> 236236D [7655/-130%]
+		> 214B [3845/-50%] (Corner Only)
+			> 214D > 236236D [6336/-80%]
+			> 236D [5033/-30%]
+				> OMB
+					> 236D [6059/-30%]
+					> 236236A > 214D > 236236D [9113/-130%]
+					> 214D > 236236D [7481/-80%]
+				> 214214C [6905/-80%]
+					> 236D [6959/-80%]
+					> 236236D [8921/-130%] (Opponent ends up on ground)
+	> 236236A > 236D [4189/-30%]
+		> 214214C [5967/-80%]
+			> 236236D [7647/-130%]
+		> OMB
+			> 214D > 236236D [6339/-80%]
+			> 236236B > 236236D [7549/-130%]
+			|> 236D > 214214C > 236236D [8609/-130%] (Corner only?)
+5B (CH) > 2DD > jump forward |> airdash > Air Turn > j.BB > j.236B~236B > 66 > 5C > 2C > ender [4034/40% on AoA~D ender](Pretty useless because normal 5B CH path carries to corner anyway, and significantly harder, but looks cool. Only potential use is if you're more comfortable with one corner than the other or something. Delaying the airdash slightly later than IAD timing makes this slightly easier. You can also do 5B (CH) > 5DD > Roll > 5B > j.B > j.236B~236B > ... for more cool looking useless combos
+5B (CH) > 2DD > 236236B > 5B > j.BB > j.236B~236B > 236236A > 236D > OMB > 214D > 236236D [10211/-143%] (Corner Only) (Can follow most of the same paths as above, but this path should mainly be taken for heavily metered damage)
+
+5B > 5C (AA/Burst Punish)
+	> j.C > j.236B~236B
+		> 5C > 2C
+			> AoA air hit [3031/22%] (Corner Only) (;_;)
+			> AoA~D [3963/38%] (Corner Only)
+				>236236D [5307/-12%]
+			> 5B > 5C > 2B > 5B > 2A+B [3785/32%]
+				> 214A > 214C > 236236D [5452/-9%]
+		> 236236A (Midscreen mostly)
+			> 5C > 2C > 5B > 5C > 2B > 5B > 2A+B
+				> 214A > 214C > 236236C [5690/-85%]
+				> OMB > 236236B > 236236D [7145/-135%]
+			> 236D [4014/-35%]
+				> 214214C [5597/-85%]
+					> 236236D [7472/-135%] (Meteors make damage +/-200)
+				> OMB
+					> 236236B > 236236D [7374/-135%]
+					> 214D > 236236D [6270/-85%]
+					> j.236D [5223/-35%]
+						> 214214C [6783/-85%]
+					> 236236A > j.236D [5465/-85%]
+						> 2124214C [7337/-135%]
+					|> 236D [5454/-35%] (Corner. Don't think it's possible midscreen to 236D > OMB > 236D)
+						> 214214C [7014/-85%]
+							> 236236D [8694/-135%]
+	> 2C
+		> 66 > 5B > 5C > j.C > j.236B~236B [3053/23%] (Can side swap depending on timing)
+			> Explore
+		> 236236B
+			> Explore
+		> Explore
+5B > 5C > 2B > 236A~236A (Corner Only. Normally gotten after failing a 2C > 5B but the opponent breaks out of ice poorly and gets hit for a reset anyway)
+	> 5B > 5C > 2C > dc > 5C > 236B~236B [3356/30%]
+	> Explore
+j.C (CH Ground) > j.2B > 2B
+	> 5B > 2A+B [1824/12%]
+		> OMB (Don't use this it's suboptimal. I guess it's easier because one less input for ~400 less damage. Just here for notes/reference)
+			> 6 (Walk Forward) > 5C > 2C > dc > 5C > 236B~236B > 236D [4488/15%]
+				> 214214C [5736/-35%]
+					> j.236D [5917/-35%]
+			> 236236B > 6 (Walk Forward) > 5C > 2C > dc > 5C > 236B~236B
+				> 236D > 214214C [7158/-58%]
+					> j.236D [7430/-88%]
+				> 236236A > 236D > 214214C [9696/-138%]
+					> j.236D [10300/-138%]
+		> 214C > OMB
+			> 6 (Walk Forward) (You can also Run forward for a side swap) > 5C > 2C > dc > 5C > 236B~236B
+				> 214C > 236236D [5471/-33%]
+				> 236D [4915/18%]
+					> 214214C [6163/-32%]
+						> j.236D [6314/-32%]
+						> 236236D [7663/-82%]
+			> 236236B > 6 (Walk Forward) > 5C > 2C > dc > 5C > 236B~236B
+				> 214C > 236236D [6579/-85%]
+				> 236D > 214214C [7382/-85%]
+					> j.236D [7842/-85%]
+				> 236236A > 214214C [9482/-135%]
+					> j.236D [10640/-135%]
+	> 236A~236A (Corner Only for any reasonable followup)
+		> 5B > 5C > 2C > dc > 5C > 236B~236B
+			> 2A+B (B Skull Cracker allows for air tech) [3423/32%]
+			> 214B > 214D > 236236D [5089/-12%]
+		> 236236B
+
+214C (AA) (FC) > (Optimize)
+
+2B (AA)
+	> j.BB > j.236B~236B
+		> 66 > 5C > 2C
+			> AoA air hit [2346/20%] (Corner)
+			> AoA~D [3170/35%] (Corner)
+			> 66 > 5B > 5C > 2B > 5B > 2A+B [3070/29%]
+				> 236236C [4270/-21%]
+				> 214A > 214C > 236236C [4577/-15%]
+			> 236D > OMB > 214D > 236236D [4936/-20%]
+		> 236236D [3002/-37%]
+		> 236D [2810/+24%]
+			> 214214C [4214/-26%]
+				> 236236D [5781/-76%]
+				> 236236B > 236236D [6542/-126%]
+			> OMB > 236236B > 236236D [4826/-76%]
+		> 236236B (Corner)
+			> 5C > 2C > 236D [3657/-37%]
+				> 214214C [5529/-87%]
+					> j.236D [5748/-87%]
+					> 236D [5853/-87%]
+					> 236236D [7545/-137%]
+				> OMB
+					> 236D [5169/-37%]
+						> 214214C [7041/-87%]
+							> 236236D [8823/-137%]
+					> 214D > 236236D [6277/-87%]
+					> 236236B > 236236D [7017/-137%]
+					> 236236A > 214D > 236236D [8025/-137%]
+	> j.A > j.C > dj.BB > j.8D [1927/+15%]
+		> 2DD/5DD oki if midscreen and you didn't jump forward
+		> 5AA > 5C > 236B~236B [2754/+27%] (Opponent can air tech around head level)
+			> 236D [3366/+38%]
+				> 214214C [3834/-12%] (Can't get God's Hand off of this)
+				> OMB
+					> 236D [3906/+39%]
+					> 214D > 236236D [4926/-12%]
+					> 236236B > 236236D [5382/-62%]
+			> 214D > 236236D [4342/-19%]
+		
+AoA~C > j.BB > j.C
+	> j.236CD > j.236D [3687/4%]
+	> j.236D [3295/37%]
+		> 214214C [4543/-13%]
+		> OMB
+			> 214D > 236236D [4912/-13%]
+			> 236236B
+				> 214C > 236236D [5584/-63%]
+				> 236236C [5095/-63%]
+			> 236236A
+				> 214C > 236236D [5203/-63%]
+				> 236236D [4975/-63%]
+			> 236D [3979/38%] (Hard to do out of corner)
+				> 214214C [5071/-13%]
+					> 236236C [6271/-63%] (Timing is annoying and meteors make damage vary by 200)
+			> 6 (Walk forward slightly) > 5C > 236B~236B (Timing is annoying)
+				> 236D [4369/39%]
+					> 214214C [4837/-11%]
+				> 214D > 236236D [5410/-12%]
+	> dj.BB > j.C
+		> j.236CD > j.236D [3636/11%/+SWAG%] (Near corner) (Harder to do than other one for less damage, but more meter. Never do this, I guess)
+		> 236D [3445/43%]
+			> 214214C [4069/-7%] (Enemy escapes meteors sooner)
+AoA~C > IAD j.8D > airturn > j.236B~236B (Opponent techs relatively low to ground; swaps sides and provides one of the most reasonable endings as opposed to a Dragon Kick ender; probably most useful when cornered to end this in the corner as AoA~D > safejump is probably a better option midscreen) (TODO: Explore this more. Try to find an AoA route that leads into knockdown or at least a setup) (If it results in corner, can end in 5C > 2DD for 2B AUB reset opportunity)
+AoA~C > j.BB |> Enemy neutral tech > j.C+D [2476/25% + 1600/6% = 4076/31%]
+AoA~C > j.B |> Enemy up/back/forward tech > airdash > j.C+D [2311/23% + 1600/6% = 3911/29%]
+
+AoA~D > j.2B > 5C > 2C (This path is for damage as the "knockdown" paths allow opponent to airtech)
+	> 66 > 5B > 5C > j.C > j.236B~236B [3412]
+		> 2A+B [3520]
+			> 236236C [4720/-50%]
+		> 214B > 214D > 236236D [5108/-50%]
+		> 236D [3952]
+			> 214214C [4888/-50%]
+			> OMB
+				> 236D [3484/+SWAG%]
+				> 214D > 236236D [5483/-50%]
+	> 236236B > 5C > 236B~236B [3445]
+		> 2A+B [3567/-50%]
+		> 214B > 214D > 236236D [6069/-100%]
+		> 236236A > 214B > 214D > 236236D [7819/-150%]
+		> 214B > 236D (4507)> OMB > 214D > 236236D [6782/-100%]
+		> 236236A > 236D (4975)> OMB > 214D > 236236D [8875/-150%]
+AoA~D > 66 > 5C > 2C
+	> 66 > 5B > 5C 
+		> 2B > 5B > 2A+B [3060/35%] (5B Ground hit)
+		> j.C > j.236B~236B [3254/38%] (You can enter this path by skipping the 5B and j.C for less damage but harder to drop)
+			> 2A+B [3369/+40%]
+				> 236236C [4569/-10%]
+			> 214B > 214D > 236236D [4977/-4%]
+			> 236D [3830/49%]
+				> 214214C [4766/-1%] (No God's Hand on this path)
+				> OMB
+					> 236D [4298/50%]
+					> 214D > 236236D [5375/-1%]
+					> 236236B > 236236D [5846/-51%]
+	> 236236B > 5C > 236B~236B [3281/-26%]
+		> 2A+B [3410/-26%] (I don't even know why I'm writing this down as a path)
+			> 236236C [5210/-76%]
+		> 214B > 214D > 236236D [5945/-76%]
+		> 236236A > 214B > 236236D [7721/-126%]
+		> 214B > 236D [4415/-26%]
+			> 214214C [5819/-76%] (No God's Hand)
+			> OMB
+				> 236D [5063/-26%]
+				> 214D > 236236D [6711/-76%]
+				> 236236B > 236236D [7775/-126%]
+				> 236236A > 214D > 236236D [8243/-126%]
+		> 236236A > 236D [4901/-76%]
+			> OMB
+				> 236D [6251/-76%]
+				> 214D > 236236D [8837/-126%]
+	> AoA~D (If they suck at breaking out of ice and blocking) [2344/33%] + [3259/10%] = [5603/43] reset
+		> 236236D [2344/33%] + [4603/-40%] = [6947/-7%]
+
+B+D (CH) > 236236A > 5C > 2C
+	> 66 > 5B > 5C
+		> 2B > 5B > 2A+B [3276/-42%]
+			> 236236C [4776/-92%]
+		> j.C > j.236B~236B [3533/-42%]
+			> 236D [4602/-42%]
+				> 214214C [6164/-92%]
+					> 236236D [7844/-142%] (236236C is a bit easier for 200 less damage)
+				> OMB
+					> 236D [5414/-42%]
+					> 214D > 236236D [6626/-92%]
+					> 236236B > 236236D [7964/-142%]
+			> 214B > 214D > 236236D [5978/-92%] (Near Corner)
+	> 236D [3687/-50%] (This path is useless why did I write it down.)
+		> OMB
+			> 214D > 236236D [5835/-100%]
+			> 236236B > 236236D [7047/-150%]
+			> 236D [4857/-50%]
+		> 214214C [5270/100%]
+			> j.236D [5648/-100%]
+			> 236236D [7145/-150%]
+	> 236B~236B [3075/-50%] (As is this path)
+		> 214B > 236D [4512/-50%]
+			> 214214C > 236236D [7680/-150%]
+			> OMB > 214D > 236236D [6534/-100%]
+		> 214B > 214D > 236236D [5625/100%]
+		> 236236A > 236D [4587/-100%]
+			> 214214C > j.236D [6731/-150%]
+			> OMB > 214D > 236236D [7150/-150%]
+	> 236236B (Corner only)
+		> 5C > 236B~236B [4131/-92%]
+			> 236D > OMB > 214D > 236236D [7847/-142%]
+			> 214D [6201/-92%]
+				> 236236D [8319/-142%]
+	> 214214D > 236236D [5451/-142%] (Only real value is harder to burst)
+B+D > 5AA > 5C > 236B~236B [2749/20%] (Corner Only)
+	> 2A+B [2914/22%]
+		> 236236C [4114/-28%]
+	> Note to self: No 5C > 2C path here
+	> 214B
+		> 214D > 236236D [4657/-22%]
+		> 236D [3745/34%]
+			> OMB
+				> 236D [4393/36%]
+				> 214D > 236236D [5348/-15%]
+				> 236236B > 236236D [5761/-66%]
+	> 236D [3577/31%] 	
+		> 214214C [4837/-19%]
+				> 236236D [6169/-69%]
+B+D > 5AA > 5C > 2C
+	> AoA~D [3285/32%]
+	> 66 > 5B > 5C
+		> 2B > 5B > 2A+B [3243/26%]
+		> j.C > j.236B~236B [3452/29%] (Allows air tech)
+			> 2A+B [3581/31%] (Still allows air tech)
+	> 66 > 5C > 236B~236B [3224/25%] (No air tech in this path)
+	> 236236B > 5C > 236B~236B > 236236A > 236D > OMB > 214D > 236236D [9319/-150%]
+	
+
+C+D (CH) > (66) > 2A > 5C > 236B~236B [2225/15%]
+C+D (CH) > 2A > 2B > j.A > j.236B~236B > Anything [2080/13%]
+C+D > OMC > 5C > 2C > 66 > 5B > 5C > etc.
+C+D > OMB |> 5C > 2C > Anything
+
+j.C+D (CH) > 2A > 2B > j.A > j.236B~236B > Anything [2469/13%]
+j.C+D > OMC > 5C > 236B~236B
+j.C+D > OMB > Exact same as ground hit
+
+5B > 2B > 236A~236A > 5B > 5C > 2C (Corner)
+	> 5B > 5C > j.C > j.236B~236B [3313]
+		> 2A+B [3449]
+		> 214B > 214D > 236236D [5115/-50%]
+		> 236D [3997]
+			> OMB > 236D [4573]
+	> 236236B > 5C > 236B~236B [3374/-50%]
+		> 236236A > 236D [5264/-100%]
+			> OMB > 214D > 236236D [9308/-150%]
+			> 214214D > j.236D [8610/-150%]
+		> 236D [4508/-50%]
+			> OMB
+				> 214D > 236236D [6934/-100%]
+				> 236236A > 214D > 236236D [9308/-150%]
+			> 214214C [6146/-100%]
+				> 236236D [8396/-150%]
+				> j.236D [6516/-100%]
+		> 236236A > 214B > 214D > 236236D [8012/-150%]
+		> 214B > 214D > 236236D [6156/-100%]
+			
+2B AUB reset if they tech poorly and you miss second hit of 2C = [2164/-50%] >
+2B > 5B > j.BB > j.236B~236B
+	> 214B
+		> 214D > 236236D [5399/-100%]
+		> 236D > OMB
+			> 236D [5435/-50%]
+			> 214D > 236236D [6705/-100%]
+	> 236236A
+		> 214B > 214D > 236236D [7463/-150%]
+		> 236D > OMB > 214D > 236236D [9299/-150%]
+
+5AA > 5C > 236A > 236AB
+	> 236236A > 236D
+		> OMB
+			> j.236D [3332/-75%] (Might be able to get 236D, but timing is hard out of the corner [3432/-75%])
+			> 214D > 236236D [4964/-125%]
+		> 214214C > j.236D [5047/-125%]
+	> 236D [2546/-25%]
+		> OMB > 214D > 236236D [4264/-75%]
+		> 214214C > 236236D [5156/-125%] (Damage is iffy b/c meteors. 4844 is my average)
+
+5AA > 5B > 2B > 2A+B > 236236A > 2B > 5B > j.A > j.236B~236B [2181/-41%] (Persona broken combo)
+	> 214B [2511/-41%] (Corner) (Extension for Persona cards to recover)
+		> 214D > 236236D [4533/-90%]
+5AA > 5C > 2B > 5B > 2A+B [1450/12%]
+	> 214A > 214C > 236236D [3273/-50%]
+	> 214C > 236236A > 66 > 5C > 2C > 66 > 5B > 5C > j.C > j.236B~236B [3389/-35%] 
+		> etc.
+		(After the freeze it's possible to end in AoA~D but the timing is kinda annoying and it's not worth it overall anyway because Power Charge negates meter gain. Just know that they're frozen until they hit the ground so don't rush the 2C followup too much)
+	> 214C > 236236A > 66 > 5C > 2C > 66 > 5C > 236B~236B is harder to drop [3226/-35%] (Both paths allow low to ground air tech)
+	> 236236A
+		> 5C > 2C > 66 > 5C > 236B~236B [2997/-38%] (Only Power Charge path 236B~236B ender that doesn't lead to air tech)
+		> 5C > 2C > 66 > 5B > 5C
+			> 2B > 5B > 2A+B [2857/-50%] (Ground hit)
+			> j.C > j.236B~236B (3185/-50%]
+				> 214B > 214D (In corner)
+					> 236236D [5405/-100%]
+					> OMB
+						> 214D > 236236D [5675/-100%]
+						> 236236B > 236236D [7085/-150%]
+				> 236D [3995/-50%]
+					> 214214C [5165/-100%]
+					> OMB
+						> 236D [4670/50%]
+						> 214D > 236236D [5963/-100%]
+						> 236236B > 236236D [7355/-150%]
+				> 214D
+					> 236236D [5189/-100%]
+					> OMB > 236236B > 236236D [6761/-150%]
+		> 5C > 236B~236B > 236D
+			> 214214C > 236236D [7262/-150%] (again, meteors. 7067 seems the average)
+			> OMB > 236236B > 236236D [7187/-150%]
+	> OMB 
+		> 6 (Walk forward slightly) > 5C > 2C > 66 > 5B > 5C
+			> 2B > 5B > 2A+B [3028] (5B Ground hit)
+			> j.C > j.236B~236B [3281]
+				> 2A+B [3417]
+				> 214B > 214D > 236236D [5109/-50%]
+				> 236236A
+					> 236D [4181/-50%]
+						> 214214C [5546/-100%]
+					> 214B > 214D > 236236D [5567/-100%]
+				> 236D [4001]
+					> 214214C [5093/-50%]
+		> 236236B > 6 (Walk forward slightly) > 5C
+			> 2C > 66 > 5B > 5C
+				> 2B > 5B > 2A+B [3028] (5B Ground hit) (AKA oops I messed up super hard and wasted 50 meter for 0 additional damage)
+				> j.C > j.236B~236B [3524/-50%]
+					> 2A+B [3660/-50%]
+					> 214B > 214D > 236236D [6267/-100%]
+					> 236D > 214214C [6164/-100%]
+					> 236236A
+						> 236D > 214214C [8054/-150%]
+							> j.236D [8519/-150%] (Meteors. 8280 average?)
+						> 214B > 214D > 236236D [8096/-150%]
+			> 236B~236B (Corner)
+				> 236236A > 214D > 236236D [7230/-150%]
+				> 236236A > 236D > 214214C > (44) > 236D [8844/-150%]
+
+5AA (Air hit) > 5C
+	> 236B~236B [1625]
+		> 236CD > 236D > OMB > 236CD > 236D [3856/-50%/SUPER SWAG 4 DRAGON KICKS IN ONE COMBO]
+		> 236D [2705]
+			> 214214C [3971/-50%]
+				> j.236D [4177/-50%]
+				> 236D [4259/-50%]
+				> 236236D [5471/-100%]
+			> OMB
+				> 236D [3641] (easiest in corner)
+				> 214D > 236236D [4423/-50%]
+				> 236236A > 214D > 236236D [4853/-100%]
+				> 236236B > 236236D [4721/-100%]
+		> 236236A > 236D [2975/-50%]
+			> 214214C [4168/-100%]
+				> j.236D [5011/-100%] (Meteors are weird...)
+				> 236D [4813/-100%]
+				> 236236D [5848/-150%]
+			> OMB
+				> 214B > 236D [4400/-50%]
+				> 236D [4145/-50%]
+				> 214D > 236236D [5123/-100%]
+				> 236236A > 214D > 236236D [5365/-150%]
+				> 236236B > 236236D [6335/-150%]
+		> 5C > 2C
+			> 66 > 5B > 5C > 2B > 5B > 2A+B [2953/30%]
+			> AoA~D (Corner) [3048/36%]
+	> 2C > 66 > 5B > 5C (side switches if you dash cancel early enough)
+		> 2B > 5B > 2A+B [2150] (Ground hit)
+			> 214A [2351]
+				> 214C > 236236D [3896/-50%]
+		> j.C > j.236B~236B [2419]
+			> 236D [3247]
+				> 214214C [4495/-50%]
+					> 236D [4567/-50%] (easier in corner)
+					> 236236D [5839/-100%]
+				> OMB
+					> 236D [3967]
+					> 214D > 236236D [4893/-50%]
+					> 236236A > 214D > 236236D [5305/-100%]
+					> 236236B > 236236D [5263/-100%]
+			> 236236A > 236D [3454/-50%]
+				> 214214C [5014/-100%]
+					> 236D [5104/-100%]
+					> 236236D [6694/-150%]
+				> OMB
+					> 236D [4354/-50%]
+					> 214D > 236236D [5512/-100%]
+					> 236236A > 214D > 236236D [5923/-150%]
+					> 236236B > 236236D [6814/-150%]
+			> 214B (in corner)
+				> 214D > 236236D [4327/-50%]
+				> 236D [3415]
+					> OMB
+						> 236D [4027]
+						> 214D > 236236D [5018/-50%]
+						> 236236B > 236236D [5431/-100%]
+					> 214214C [4507/-50%]
+			> 236236A > 214B (Corner only, mostly)
+				> 236D [3664/-50%]
+					> 214214C [5029/-100%]
+					> OMB
+						> 214B > 236236D [5668/-100%]
+						> 236236A > 214D > 236236D [6068/-150%]
+						> 236236B > 236236D [7024/-150%]
+				> 214D > 236236D [4804/-100%]
+	> 2C > 236236B > 5C > 236B~236B (Corner only)
+		> 236236A > 236D [4738/-100%]
+			> 214214C [7858/-150%]
+				> j.236D [8311/-150%]
+				> 236D [8428/-150%]
+			> OMB
+				> 236D [6718/-100%]
+					> 214214C [7810/-150%]
+				> 214D > 236236D [8926/-150%]
+		> 214B
+			> 214D > 236236D [5429/-100%]
+			> 236D [4126/-50%]
+				> OMB
+					> 236D [5152/-50%]
+						> 214214C [6790/-100%]
+					> 214D > 236236D [6574/-100%]
+					> 236236A > 214D > 236236D [8206/-150%]
+					> 236236B > 236236D [7486/-150%]
+				> 214214C [5764/-100%]
+		> 236236A > 214B
+			> 214D > 236236D [7390/-150%]
+			> 236D [5218/-100%]
+				> 214214C [7246/-150%]
+					> j.236D [7492/-150%]
+				> OMB
+					> 236D [6928/-100%]
+						> 214214C [8020/-150%]
+					> 214D > 236236D [7282/-150%]
+		> 236D [3838/-50%]
+			> 214214C [5710/-100%]
+				> j.236D [5891/-100%]
+				> 236D [5926/-100%]
+				> 236236D [7726/-150%]
+			> OMB
+				> 236D [5026/-50%]
+					> 214214C [6664/-100%]
+						> j.236C [6793/-100%]
+				> 214D > 236236D [6350/-100%]
+				> 236236A > 214C > 236236D [7750/-150%]
+				> 236236B > 236236D [7198/-150%]
+
+2A+B > 214AB
+	> 214C > 236236D [2645/-75%] (Non Corner)
+	> 236C > 214214C > 236236CD [4351/-150%] (Non Corner)
+	> 5AA > 5C
+		> 2C
+			> AoA~D [2618/-25%] (SB Move wrecks meter gain)
+				> 236236C [3818/-75%]
+		> 66 > 5B > 5C > 2B > 5B > 2A+B [2580/-25%]
+			> 214A > 214C > 236236C [3636/-75%]
+	> 5B
+
+2A+B > 214A > 236236A > 5C > 2C > 66 > 5B > 5C > j.C > j.236B~236B [3008/-50%]
+	> 236D > OMB > 236236B > 236236D [7358/-150%]
+	
+5D (Last hit) (FC) > 5C > IAD j.2B > 5C > 2C > 236236B > 5C > 236B~236B > 236236A > 236D > OMB > 214D > 236236D [9802/-129%] (Probably the most situational confirm you will ever get. Make good use of this in this version because 5D's last hit loses it's fatal starter status next version. Corner only) (For a visual aid, stand at the camera when your opponent is in the right corner of Yasogami at night, or at the truck for the left corner)
+
+SUPER COOL TRAINING MODE COMBO
+5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C > OMB > 5C
+236D > OMB > 236236B > 236236D
+236D > 214214C > 236236B > 236236D
+
+... > 2A+B > 214C > 236236A > (66)5C > 2C > dc > 5C > 236B~236B > 236D
+C+D (CH) > 2A > 2B > j.A > j.236B~236B
+5AAA > (66)5AA > 5C > 236B~236B ( > 5C > j.D > 44 > j.D)
+B+D (CH) (Corner) > 5A > 5C > 2C > 214C > OMB > 214D > 214214C > 236236AB (Crossup input) > 236D (5910/-125%)
+AoA~D (Reasonable distance from corner) > dc > 5C > 2C
+...> 2A+B > j.2D for oki once they stop DPing all the time?
+Pressure > 5C > sj.2D
+C+D > OMB > 236236AB > (66)5B?
+... > 236B~236B > 5C > j.A > j.8D > 2B AUB reset (Loses to neutral tech or no tech or double jump/airdash or move that manipulates vertical position significantly. j.2D keeps them blocking, but no AUB reset. Up tech has slightly different timing)
+... > 236B~236B > 214B > 2B AUB reset (Loses to neutral tech, no tech, double jump/airdash, or move that manipulates vertical position significantly. Toward tech is a weird pickup, backing up slightly after 214B covers towards tech better)

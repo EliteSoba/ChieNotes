@@ -1,0 +1,46 @@
+﻿Skull Cracker Starters
+	Denoted by ~236A/B/AB
+
+~236AB > 5B > 5C > j.236B~236B > 5C > 2C > AoA~D [3861/-22%]
+~236B > 214B > 5C > 2C > AoA~D [2639/31%]
+~236B > 5C > 2C > dc > 5C > 236B~236B [2395/21%]
+~236B > 5C > 2C > dc > 5B > 5C > 236B~236B [2499/23%]
+~236B > 5B > 5C > 2C > dc > 5C > 236B~236B [2503/24%]
+~236B > 5C > 2C > 2DD > 5B > 236B~236B [2669/24%]
+~236B > 5C > 2C > 2D |> 5C > 236B~236B [2696/25%]
+
+236D (CH) > OMC > 44 > 5C > 236B~236B > 236D [4753/-35%]
+236C (CH) > OMC > 44 > 5C > 236B~236B > 236D [3653/-39%]
+
+SB Black Spot FC Starter
+
+CURRENT OPTIMAL PATH IS:
+	214CD (FC) > dc > 5B > 5C > dc > 5B > 5C > dc > 5B > 5C > dc > 5B > 5C > ???
+The timing here is really annoying because the loops don't have consistent timing. Instead,  you have to gradually accelerate the speed from decent delay between 5B and 5C to almost no delay. The 3rd loop is when the gap gets small. You want to catch opponent as low to the ground as possible with first two loop iterations. 4th iteration is hardest and might be suboptimal?
+
+No Burst:
+	25 Meter:
+		214CD (FC) > dc > 5C > dc > 5B > 5C > 2C > dc > 5B > 5C > j.C > j.236B~236B > 236D [4047/-22%]
+		214CD (FC) > dc > 5C > j.BB > j.C > j.236B~236B > 5C > 2C > dc > 5B > 5C > 2A+B > 214A > 236C [4197/-21%]
+		214CD (FC) > dc > 5B > 5C > dc > 5B > 5C > 2C > dc > 5B > 5C > j.C > j.236B~236B > 236D [4202/-21%]
+		214CD (FC) > dc > 5B > 5C > dc > 5B > 5C > dc > 5B > 5C > 2C > dc > 5C > 236B~236B > 236D [4272/-21%]
+	75 Meter:
+		214CD (FC) > dc > 5B > 5C > dc > 5B > 5C > 236B~236B > 5C > 2C > dc > 5B > 5C > 2A+B > 214C > 214C > 236236C [5280/-75%]
+		214CD (FC) > dc > 5B > 5C > dc > 5B > 5C > dc > 5B > 5C > 2C > dc > 5B > 236B~236B > 214D > 236236D [5313/-72%]
+	100 Meter:
+		214CD (FC) > 236236AB > 5C > 236B~236B > 236D [6127/-100%]
+	125 Meter:
+		
+	150 Meter:
+		214CD (FC) > 236236AB > 5C > 236B~236B > 214D > 236236D [7975/-150%] (Very tight when you're in the corner)
+Burst:
+	25 Meter:
+		
+	75 Meter:
+		
+	100 Meter:
+		
+	125 Meter:
+		
+	150 Meter:
+		
