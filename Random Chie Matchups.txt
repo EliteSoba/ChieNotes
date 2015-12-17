@@ -416,6 +416,7 @@ Shadow Labrys
 	Sometimes you can get away with dumber stuff in neutral than against Labrys because she's concerned with Asterius
 	5C pokes Asterius to stop her from shenanigans
 		B moves and Persona moves are the only things that can break Asterius
+		You can also dash cancel and jump cancel after hitting Asterius to continue being scary, although an aware Shabrys can just smack you out of dash cancel
 	Asterius will block meteors allowing her to DP
 	They like to DP to bait and do gimmicks with Asterius
 	Some Shabryses are spoiled by safe DPs, so they're more prone to DPing than usual.
@@ -441,6 +442,11 @@ Shadow Labrys
 		236C (236D/CD whiff against grounded Asterius)
 		236236C/D/CD
 		214124C/D/CD
+	Her DP is not a good reversal. Because it's armor and not invul, and armor gets slowed down by hitstop, it's easily reacted to and punished with DP or AoA or jump out or backdash out. Generally easiest to react to during 5A pressure
+	j.C loop pressure is really strong in the corner. j.C > j.B loops are similarly strong
+	When pressuring Shabrys, watch out for Asterius. If Asterius goes missing, an uppercut is probably coming, so cut your string short or go for a grab to take the card. Going for the grab is obviously the most risky, and if they jump away then you're taking a lot of damage for that.
+	On knockdown, watch out for Guillotine Axe/SB Guillotine Axe. Especially be careful if it whiffs, because that's usually an uppercut bait.
+	Hitting Asterius really messes with pressure strings and ends up messing with timings, causing things to be more or less unsafe than usual, weirdly enough. For example, Shabrys has difficulty with j.C loop corner pressure normally, but if the j.C's hit Asterius in a certain way, it can open up a large enough gap (either timing wise or spacing wise. I'm not actually entirely sure and intend to research this more) for her to get off a 2B easier. I think hitting Asterius that way made it easier for Chie to respond to DP or roll out or something, though. I don't quite remember and need to research.
 
 Junpei Iori
 	In the corner watch out for 2B AUB resets. Tech > airdash out is an option. No tech is another option although it gives him another hit.
