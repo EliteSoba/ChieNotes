@@ -1,0 +1,2 @@
+﻿Other things to note
+	One More Cancel (A+B+C) defaults to All Out Attack (A+B) for old characters, but defaults to Evasive Action (A+C) for new characters (Rise, Ken, Adachi, Marie, Margaret)
