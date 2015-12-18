@@ -1,0 +1,37 @@
+Move	Startup	Frame Adv.
+5A		5		0
+5AA		8		-2
+5AAA	10		-5
+5B		7		-7
+Dash Cancel		-5
+Backdash Cancel	-4
+2A		7		-3
+2B		10		-17
+Dash Cancel		-5
+Backdash Cancel -4
+AoA		26		-21
+Sweep	9		-8
+5C		12		-16
+Dash Cancel		-3
+5D/D	43		A lot
+2C		23		-11
+Dash Cancel		-3
+2D/D	26		27/62
+236A	11		-8
+236B	19		+2
+236AB	12		+6
+~236A	6		-12
+~236B	10		-7
+~236AB	5		-11
+236C	18		-34
+236D	30		-31
+236CD	30		-2
+214A	15		-14~-9
+214B	31		-11~-3
+214AB	17		+3
+214C	13		-7
+Dash Cancel		-6
+214D	26		+2
+Dash Cancel		-3
+214CD	21		-6
+Dash Cancel		-3
