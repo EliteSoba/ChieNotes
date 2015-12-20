@@ -117,6 +117,15 @@ Pressure
 				The viability of DP against j.B depends on the DP and the timings. Some counter DPs will end up facing the wrong direction if done too quickly, and I believe Akihiko's DP won't reach sometimes. If these DPs are done later, generally on reaction instead of mashed as fast as possible, they'll generally win. Some DPs, such as Mitsuru's, will just about always beat j.B, and for the most part most DPs do end up winning fairly easily. Chie can hard call out some DPs by using the backdash invulnerability, but this generally requires delaying the backdash by a double digit number of frames, so it's unlikely for a Chie to go for this. Some DPs, like Liz's, will never really work.
 				2B is an option that probably should not be blindly mashed except maybe when playing the Velvet Sisters. Against basic 5A/2A/grab stagger pressure, 2B will lose to any of these options, with the exception of Liz's 2B which goes airborne on frame 5 and thus beats grab attempts. The thing with 2B is that against a quickly executed j.B, it can be hard to 2B on reaction successfully. It's theoretically possible for Chie to delay the backdash so much that the 2B goes the wrong way and/or she invuls through the 2B, but this rarely happens and so it's not really something to expect. For the most part 2B is one of the best offensive options against j.B, taking advantage of Chie's vulnerability before the j.B.
 				Jumping out is a fairly safe option. In addition to beating grab, it also causes Chie to backdash into the jumping opponent and the j.B will be aimed in the wrong direction. Without committing to an offensive option on the jump, it can be hard to punish the whiffed j.B, however. This means that Fuzzy Jump will beat j.B pretty handily.
+			Tight Frametrap (5A > 2B/5C)
+				Same as 5A/2A only the 3 move rule no longer applies
+			Loose Frametrap (5A |> 5C)
+					Catches a lot more things like jump and backdash
+			Backdash
+				Wrecks most DPs, beats roll, loses to backdash and jump out and slower mash and some DPs
+			Air backdash
+				Baits roll, can beat DP, can bait slow 2Bs. Loses to jump and backdash out and doing nothing because of reset to neutral
+			Block
 	Corner 5C > j.C > j.C > 5C > j.C > j.C > 5C > Repeat x infinity
 		This is not real against most characters. I thought it was not real against any character but as it turns out Shadow Labrys actually doesn't have many good answers to it, so I'm a bit more doubtful now. The most interesting thing about this particular string is that the possible responses change depending on the number of jumps back (and possibly depending on the move the initial 5C follows: 5B, 2B, 5A, 5AA). Chie gets at most two jumps back and then must either forward jump or neutral jump; three jumps is too far for j.C to hit, although 5C will still hit and it's surprisingly hard for opponents to respond to whiffed j.C at that spacing.
 	Corner 5C > j.C > j.B > 5C > Repeat x infinity
