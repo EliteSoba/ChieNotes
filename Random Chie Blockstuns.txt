@@ -28,6 +28,8 @@ Herculean Strike can be canceled into Dragon Kick(?) and Black Spot
 214B: 7f
 214AB: 19f
 
+TODO: Check frame advantage on Black Spot Dash Cancel. Numbers add up weird to me.
+
 Startup frames for reference:
 5A:		5
 5AA:	8
