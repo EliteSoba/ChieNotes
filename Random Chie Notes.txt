@@ -23,6 +23,7 @@ Neutral:
 	Chie actually gets slightly more horizontal distance after running from a forward double jump than from a forward air dash. This happens because once you jump you maintain some of your running momentum which gets added onto the forward movement of the double jump making the double jump move forward faster than normal. This is also why you can't run forward, jump forward, and then double jump back (the backward jump neutralizes momentum and you essentially end up with a neutral double jump) and neutral jumps after running forward will still go forward.
 	For air-to-air situations, preemptive j.B is often better than j.C because j.C stalls momentum whereas j.B maintains it. Will beat a lot of air-to-airs that come later that would be beating your j.A
 	TODO: Something to look into: Find strings that will cause grab to whiff to punish failed grab techs with 5B. For people looking out for grabs it might work.
+		In progress: After three 5A's with no microdash, grab will whiff. 5B > C+D is another whiff setup
 
 	236CD/j.236CD covers a pretty good angle and allows you to act again in midair and you can use it again for up to 7 dragon kicks in midair. No practical application of the 7 midair dragon kick neutral identified yet. Maybe to time out a shock, or after AoA~C to stall? In the corner you can 236CD in the same direction every time to confuse the opponent or something
 	While Agneyastra is useful for getting in, be careful using it against characters with fast full screen options like Narukami's Maziodyne or Akihiko's Maziodyne as they can just use it for an easy punish.
@@ -358,6 +359,11 @@ Midscreen Combo/Combo Endings:
 	On a midscreen combo ending in D God's Hand (ex: ... > 236B~236B > 236236D), you can just run forward > jump forward > air turn > j.B for a crossup
 		On C God's Hand ender (5AA > 5C > 2B > 5B > 2A+B > 236236C) you can neutral jump > airturn > air backdash > j.B for a crossup
 	TODO: Just make a quick list of the hardest parts of combos.
+	Work in Progress:
+		Autocombo path (5AAA > microdash 5A > etc.)
+		214C > 236236A
+		Corner 5AA > 5C > 236A~236A > 5B > 5C > j.C > j.236B~236B - A Skull Cracker to 5B is annoying and getting the right j.C can be annoying
+		... > 2C > AoA~D
 	... > OMB > (236236B) > 4 > 5C > 2C > (236236A) > 214214D > 236(236)D (Gets about 1K damage per resource)
 		Burst Safe (mostly). Very hard to burst as you need to burst right before the 5C while pretty close to the ground, and only on certain spacings, like C+D > OMB. 5B (CH) > 2DD > j.BB > 5C > 214C > OMB > ... looks to be completely safe for [7950/-132%/Burst)
 		I think this path is only worth considering in Awakening with Agneyastra access. Priority of meter usage should be 214214D > 236236B > 236236A > 236236D. God's Hand ending is easier than mid combo A Power Charge, but yields ~800 less damage
