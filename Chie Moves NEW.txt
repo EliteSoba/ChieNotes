@@ -1,0 +1,40 @@
+Chie's Move List
+Dustloop Wiki-esque move descriptions. The current descriptions on the Dustloop Wiki are a bit dated, as well as being a bit terse for readability purposes.
+
+5A
+	One of the fastest moves in the game at 5 frames of startup. While we're talking about superlatives, also boasts one of the worst ranges in the game out of any move. As such, does not see much use as a poke in neutral. Shines most in pressure, where it's +0 on block and cancels into every other one of her moves. Common usage is to stagger 5A's, 2A's, and grabs in pressure, as 5A cancels into 2A and vice versa for a maximum of three in a string. On hit can be canceled into 5AA, where Chie can just about always confirm into knockdown. On defense, adequate mash due to its speed, but again suffers from limited range.
+
+5AA
+	Second hit of autocombo. By definition only usable if 5A hits something. Most commonly used to confirm 5A hits, as the moderately long animation provides plenty of time to check if the opponent is grounded or airborne and actually in the process of getting hit. In pressure, -2 on block, so not the worst place to reset pressure. Pulls the opponent into Chie, aiding in the whole pressure resetting situation, and can lead to some cheesy things like opening up enough space against a cornered opponent to successfully cross up.
+
+5AAA
+	Third hit of autocombo. Leaves a 1 frame gap when following 5AA. Mostly used in autocombo paths to build meter, although Chie's autocombo path is actually rather rare because it's one of her hardest combos. Does not connect against an airborne opponent. Does not cancel into any other normal; only cancels into specials, supers, and OMC/OMB. In pressure, the animation is very obvious, and the move is not tight with itself, so an opponent can DP on reaction most of the time. Goes airborne quickly, meaning an Elizabeth mashing Ghastly Wail will actually whiff the grab against this. Can be special canceled at any time in the animation, although Chie can only use air OK moves during the airborne portion of this move. This means Chie can cancel 5AAA into instant Skull Cracker for a gimmicky overhead in pressure (j.236AB after 2 hits of 5AAA, cancel the animation of SB Rampage by landing, and input Skull Cracker), although the obvious 5AAA animation should make an opponent suspicious.
+
+5B
+	Chie's best normal starter. A typical 5B (CH) > 2DD path does ~4.5k damage, builds ~40 meter, and takes the opponent from one corner to the other. Usable as a poke, with less horizontal range than 2A but greater vertical range (the former of which being generally more important). Beyond this, generally used as combo/blockstring filler. Backdash cancelable for -4 on block. Dash cancelable for -5 on block.
+
+2A
+	Low kick. The low in Chie's high/low mixup. One of Chie's best pokes, low profiling many other moves such as Narukami's 5B. Situationally can be used to antiair by low profiling the aerial. Better horizontal range than 5B making it one of Chie's longest reaching Persona-less normals. Sees extensive use in pressure due to the fact that it hits low forcing the opponent to crouch block, and it cancels into and out of 5A. Particularly bad starter. Cancels into itself on whiff. Chie's only non-D normal that is not jump cancelable.
+
+2B
+	Universal anti-air. Unfortunately, not particularly great for it's intended purpose of answering jump-ins. -17 on block and 30 frames of whiff recovery make it particularly risky for Chie to commit to. Chie moves forward during this 2B, meaning aiming this properly can take some practice and that Chie can have some trouble hitting opponents right in front of her face. Sees moderate use as blockstring/combo filler, notably frametrapping after 5A/5AA. On hit forces stand on crouching opponent, which is almost always a bad thing. Sees lots of use in gimmicks, such as 2B air unblockable resets and crossunders. Similar to 5B, backdash cancel is -4 on block and dash cancel is -5 on block.
+
+j.A
+	Aerial analogue to 5A, with 5 frames of startup and horrendous range. Can win in air-to-air exchanges, although the range of the move means Chie generally loses these interactions. Cancels into itself even on whiff. Sees some use in aerial combos if other aerials won't work in those situations. Does very little that j.B cannot also do. Often used after airdashed j.BB because she has no other overhead options available at that point. Has a reverse hitbox as well, but this doesn't see all that much use.
+
+j.B
+	Important high in Chie's high/low mixup. Slower than j.A at 8 frames of startup, but the longer reach compensates for this fairly well. Sees use as the aerial of choice for safejumps (the other popular option being j.2B). Sees use as aerial combo filler, normally preceding a j.BB and ultimately an air B Rampage. Decently large hitbox means it's usable in air backdashed crossups, although following up after it can end up being slightly tricky.
+
+j.BB
+	By definition can only follow up a j.B hit. Sees use as aerial combo filler, following j.B and preceding air B Rampage. Sees use after airdashed j.B for another high when going for high/low mixups.
+j.2B
+	Command normal version of j.BB. Sees use as the other aerial of choice for safejumps (the other popular option being j.B). Can be used in an aerial combo preceding an air B Rampage, although j.BB and j.C generally do the same thing in those combos for more damage. Can cancel into j.B on hit or block, and using j.2B does not restrict Chie from using j.BB in that same string, so airdashed j.2B > j.BB is a valid string of three overheads.
+
+All Out Attack (5A+B)
+	Universal overhead. Sees use as corner ender after 2C for excellent damage, meter gain, and knockdown. In pressure, a fairly quick overhead at 26 frames, although fairly easily to react to by an aware opponent, and heavily punishable on block. Has armor from frames 10-26, meaning it can beat an opponent mashing on defense. Additionally, leaves Chie airborne for most of the startup, meaning an opponent mashing ground throw will lose most of the time. For example, All Out Attack beats Elizabeth mashing Ghastly Wail on wakeup. Very gimmicky as a defensive option, as it jumps over grabs/command grabs and can armor through moves trying to catch the jump out of the command grab. This is generally not the suggested defensive option, but it can be valuable to know that it is an option at all.
+
+Sweep (2A+B)
+	Universal low. Similar to 2A in that it low profiles many moves and has decent reach that can be used as a poke, but not quite as safe. Almost always results in knockdown, although in very highly prorated combos the opponent may be able to air tech a sweep ender. In general, sees most use as a combo ender, leading into safejump setup or A Herculean Strike into safejump setup. Combos into C Black Spot, which cancels into A Power Charge or OMB for Chie's more damaging combo routes. -8 on block, so not particularly great in pressure, and only cancelable into jump or specials making the blockstring risky at that point, but important as a fast low to keep opponents crouch blocking throughout strings.
+
+5C
+	One 
