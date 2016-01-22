@@ -148,3 +148,6 @@ Aerial D Agneyastra (j.214214D)
 	Aerial version of D Agneyastra. Sees similar use as D Agneyastra as a tool to cover Chie's approach. Aerial D Agneyastra is generally not a good followup to Dragon Kick as opponents fall out after only a few meteors.
 Aerial SB Agneyastra (j.214214CD)
 	Aerial version of SB Agneyastra. Similar to grounded SB Agneyastra in that is sees very little use in real matches.
+
+Glactic Punt (222CD)
+	Chie's Instant Kill. Requires 100 meter and Chie on match point. Galactic Punt tracks the opponent's position, so it can be used as a pretty good full screen punish, for example against Akihiko's Maziodyne. A bit slow, so it can be hard to use without a hard read except against certain moves.
